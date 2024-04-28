@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: Raul
+middle_name: A.
+last_name: Marquez
+email: raul.marquez@utexas.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Analytical chemist and engineer with 8+ years of distinguished research in electrocatalysis, materials chemistry, and electrochemical engineering. Extensive hands-on experience in device prototyping, materials characterization, and electrochemical techniques, underpinned by a strong record of publications and successful project leadership. Committed to establishing a top research group dedicated to studying electrochemical phenomena, aiming to innovate technologies and materials that align with global sustainable development goals.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
