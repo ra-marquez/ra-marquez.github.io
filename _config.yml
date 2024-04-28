@@ -104,7 +104,7 @@ wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
 x_username: Ruloufo # your X handle
-youtube_id: @Catalastic # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: Catalastic # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: raulmarquezmontes # your zotero username
 
 contact_note: >
