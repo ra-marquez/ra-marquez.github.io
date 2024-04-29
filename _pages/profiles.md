@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /outreach/
 title: Outreach
 description: Insert text here
 nav: true
