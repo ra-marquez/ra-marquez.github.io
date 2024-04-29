@@ -12,7 +12,7 @@ profile:
     <p>McKetta Department of Chemical Engineering</p>
     <p>200 E Dean Keeton St</p>
     <p>Austin, TX 78712</p>
-    <p>Email: raul.marquez@utexas.edu</p>
+    <p>raul.marquez@utexas.edu</p>
 
 social: true # includes social icons at the bottom of the page
 selected_papers: true # includes a list of papers marked as "selected={true}"
