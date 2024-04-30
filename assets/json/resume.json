@@ -44,7 +44,7 @@
       "startDate": "2018-08-15",
       "endDate": "2020-07-04",
       "score": "GPA 4.0",
-      "courses": ["Advisor: Prof. Victor H. Ramos-Sanchez"]
+      "courses": ["Advisor: Prof. Victor H. Ramos-Sanchez"],
       "highlights": ["Cum Laude Academic Honor", "Thesis: Evaluating and Optimizing Sulfite Electrooxidation in a Parallel-plate Reactor"]
     },
     {
@@ -56,7 +56,7 @@
       "startDate": "2012-08-21",
       "endDate": "2017-11-15",
       "score": "GPA 4.0",
-      "courses": ["Advisor: Prof. Victor H. Ramos-Sanchez"]
+      "courses": ["Advisor: Prof. Victor H. Ramos-Sanchez"],
       "highlights": ["Cum Laude Academic Honor", "Thesis: Design of an Electrochemical Membrane Reactor for Hydrogen Production via the Hybrid Thermochemical Sulfur-Ammonia Cycle"]
     }
   ],
@@ -131,17 +131,17 @@
     {
       "title": "Morton Share Trust Graduate Fellowship",
       "date": "2021-01-01",
-      "awarder": "The University of Texas at Austin",
+      "awarder": "The University of Texas at Austin"
     },
     {
       "title": "Royston M. Roberts Fellowship in Chemistry",
       "date": "2020-08-21",
-      "awarder": "The University of Texas at Austin",
+      "awarder": "The University of Texas at Austin"
     },
     {
       "title": "Maddin Endowed Scholarship in Chemistry",
       "date": "2020-08-21",
-      "awarder": "The University of Texas at Austin",
+      "awarder": "The University of Texas at Austin"
     },
     {
       "title": "International Doctoral Fellowship Program",
@@ -188,7 +188,7 @@
       "date": "2023-10-08",
       "awarder": "The Royal Society of Chemistry",
       "url": "https://www.rsc.org/journals-books-databases/about-journals/materials-horizons/#Community-board",
-      "summary": "The Materials Horizons Community Board is an early career advisory board made up of researchers with expertise across all areas of the journal’s scope. The board members provide feedback and advice regarding journal activities, as well as acting as advocates for the journal.."
+      "summary": "The Materials Horizons Community Board is an early career advisory board made up of researchers with expertise across all areas of the journal’s scope. The board members provide feedback and advice regarding journal activities, as well as acting as advocates for the journal."
     },
     {
       "title": "ECS Texas Section Travel Award",
@@ -200,7 +200,7 @@
       "title": "General Student Poster Session Award (First place)",
       "date": "2023-05-30",
       "awarder": "The Electrochemical Society",
-      "url": "https://www.electrochem.org/ecsnews/243-student-poster-award-winners/",
+      "url": "https://www.electrochem.org/ecsnews/243-student-poster-award-winners/"
     },
     {
       "title": "ECS Texas Section Travel Award",
@@ -212,27 +212,27 @@
       "title": "Master Thesis Competition (First place)",
       "date": "2022-10-11",
       "awarder": "Mexican Hydrogen Society",
-      "url": "https://hidrogeno.org.mx/",
+      "url": "https://hidrogeno.org.mx/"
     },
     {
       "title": "Faraday 2021 Teaching Award",
       "date": "2021-11-17",
-      "awarder": "The University of Texas at Austin",
+      "awarder": "The University of Texas at Austin"
     },
     {
       "title": "Henze 2021 Teaching Award",
       "date": "2021-05-03",
-      "awarder": "The University of Texas at Austin",
+      "awarder": "The University of Texas at Austin"
     },
     {
       "title": "Chemistry Department Service Award 2021",
       "date": "2021-03-16",
-      "awarder": "The University of Texas at Austin",
+      "awarder": "The University of Texas at Austin"
     },
     {
       "title": "MS in Chemistry - Cum Laude Academic Honor",
       "date": "2020-07-04",
-      "awarder": "Universidad Autonoma de Chihuahua",
+      "awarder": "Universidad Autonoma de Chihuahua"
     },
     {
       "title": "Matías Romero Visiting Scholars Program",
@@ -244,7 +244,7 @@
     {
       "title": "BE in Chemical Engineering - Cum Laude Academic Honor",
       "date": "2017-11-15",
-      "awarder": "Universidad Autonoma de Chihuahua",
+      "awarder": "Universidad Autonoma de Chihuahua"
     },
     {
       "title": "2017 Harry West Student Poster Award (First place)",
