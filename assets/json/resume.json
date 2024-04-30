@@ -1,115 +1,280 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Raul A. Marquez",
+    "label": "Ph.D. Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "raul.marquez@utexas.edu",
+    "phone": "+1(737) 703-2326",
+    "url": "https://www.linkedin.com/in/raulamm94/",
+    "summary": "Analytical chemist and engineer with 8+ years of distinguished research in electrocatalysis, materials chemistry, and electrochemical engineering.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "200 E Dean Keeton St",
+      "postalCode": "78712",
+      "city": "Austin",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "Ruloufo",
+        "url": "https://twitter.com/Ruloufo"
       }
     ]
   },
+  
+  "education": [
+    {
+      "institution": "The University of Texas at Austin",
+      "location": "Austin, Texas, United States",
+      "url": "https://cm.utexas.edu/",
+      "area": "Analytical Chemistry",
+      "studyType": "PhD",
+      "startDate": "2020-08-21",
+      "endDate": "Present",
+      "score": "GPA 4.0",
+      "courses": ["Advisor: Prof. C. Buddie Mullins"]
+    }
+    {
+      "institution": "Universidad Autonoma de Chihuahua",
+      "location": "Chihuahua, Mexico",
+      "url": "https://uach.mx/fcq/",
+      "area": "Chemistry",
+      "studyType": "MS",
+      "startDate": "2018-08-15",
+      "endDate": "2020-07-04",
+      "score": "GPA 4.0",
+      "courses": ["Advisor: Prof. Victor H. Ramos-Sanchez"]
+      "highlights": ["Cum Laude Academic Honor", "Thesis: Evaluating and Optimizing Sulfite Electrooxidation in a Parallel-plate Reactor"]
+    }
+    {
+      "institution": "Universidad Autonoma de Chihuahua",
+      "location": "Chihuahua, Mexico",
+      "url": "https://uach.mx/fcq/",
+      "area": "Chemical Engineering",
+      "studyType": "BE",
+      "startDate": "2012-08-21",
+      "endDate": "2017-11-15",
+      "score": "GPA 4.0",
+      "courses": ["Advisor: Prof. Victor H. Ramos-Sanchez"]
+      "highlights": ["Cum Laude Academic Honor", "Thesis: Design of an Electrochemical Membrane Reactor for Hydrogen Production via the Hybrid Thermochemical Sulfur-Ammonia Cycle"]
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "The University of Texas at Austin",
+      "position": "Graduate Teaching Assistant",
+      "url": "https://cm.utexas.edu/",
+      "startDate": "2020-08-21",
+      "endDate": "2021-05-04",
+      "summary": "Taught Introduction to Chemical Practice, CH 204, in Fall 2020 and Spring 2021. Responsibilities included guiding students through introductory chemistry experiments, grading reports, leading online and laboratory sessions, preparing lectures, and holding office hours.",
+      "highlights": ["Received two teaching awards from UT-Austin."]
+    }
+    {
+      "name": "Universidad Autonoma de Chihuahua",
+      "position": "Research Assistant",
+      "url": "https://uach.mx/fcq/",
+      "startDate": "2017-08-03",
+      "endDate": "2018-06-18",
+      "summary": "Hired by Prof. Victor H. Ramos-Sanchez for a one-year position as a research assistant to conduct corrosion tests and passivation experiments on stainless steel in collaboration with KAT Aerospace and the Advanced Materials Research Center in Chihuahua, Mexico.",
+    }
+    {
+      "name": "Universidad Autonoma de Chihuahua",
+      "position": "Undergraduate Teaching Assistant",
+      "url": "https://uach.mx/fcq/",
+      "startDate": "2017-08-03",
+      "endDate": "2018-06-18",
+      "summary": "Assisted Prof. Victor H. Ramos-Sanchez in teaching undergraduate Physical Chemistry and graduate Instrumental Analysis courses for two semesters. Responsibilities included leading physical chemistry laboratory sessions, holding office hours, and grading coursework, presentations, exams, and final projects.",
+      "highlights": ["Assisted in the development of 6+ laboratory experiments and lectures."]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "UT-Austin ECS Student Chapter",
+      "location": "Austin, Texas",
+      "position": "Secretary",
+      "url": "https://sites.utexas.edu/ecs/",
+      "startDate": "2023-03-12",
+      "endDate": "Present",
+      "summary": "Served as the secretary of the Electrochemical Society student chapter at UT-Austin.",
+      "highlights": ["Started a series of Chalk Talks in electrochemistry for the local ECS Student Chapter.", "Developed an official website and managed all the chapter's social media accounts.", "Served as the chapter’s photographer for academic and outreach activities.", "Recorded and edited seminar recordings for posting on the chapter’s YouTube channel.", "Coordinated social events and one academic seminar for the regional Texas ECS Section."]
     }
-  ],
-  "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "organization": "The University of Texas at Austin, Department of Chemistry",
+      "location": "Austin, Texas",
+      "position": "Graduate Recruiter and Student Host",
+      "url": "https://cm.utexas.edu/",
+      "startDate": "2021-01-06",
+      "endDate": "2024-09-16",
+      "summary": "Assisted the Department of Chemistry in several roles during graduate recruitment events.",
+      "highlights": ["Hosted eight visiting students and served as staff during recruitment events.", "Held six seminars at the top five national universities in Mexico, explaining the application process for the Fall 2023 period, and engaged with over 30 students through both face-to-face and online conversations", "Guided seven students through their application process.", "Held ten Zoom sessions to help four prospective international students enhance their English skills and prepare for the TOEFL and IELTS exams.", "Received two service awards from the Chemistry Department."]
+    }
+    {
+      "organization": "Mexican Youth Red Cross at Chihuahua",
+      "location": "Chihuahua, Mexico",
+      "position": "Young leader",
+      "url": "https://www.facebook.com/CRMJuventudChihuahua/?locale=es_LA",
+      "startDate": "2009-11-16",
+      "endDate": "2013-12-21",
+      "summary": "Served as a part-time Mexican Youth Red Cross volunteer, a nonprofit and charity association.",
+      "highlights": ["Received training in first-aid, CPR, advanced burn life support, humanitarian aid, disaster relief, health and safety campaigns, sexual education, and sport promotion activities.", "Participated in over 40 community service and humanitarian relief activities and three major disaster operations (earthquakes and snowstorms).", "Received rope rescue training and became an instructor.", "Co-author of a comprehensive handbook on rope rescue for the Mexican Youth Red Cross.", "Coordinated twelve operations as leader of the Health and Life Protection branch at the Mexican Youth Red Cross office in Chihuahua, impacting over 120 people in need."]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Provost's Graduate Excellence Fellowship",
+      "date": "2020-08-21",
+      "awarder": "The University of Texas at Austin",
+      "url": "https://cm.utexas.edu/academics/graduate/prospective-students/recruiting-fellowships",
+      "summary": "This prestigious fellowship is aimed at the most talented and exemplary graduate students with outstanding academic records and those who have established a track record of success as researchers and innovators. Recipients are awarded five years of fellowship support."
+    }
+    {
+      "title": "Morton Share Trust Graduate Fellowship",
+      "date": "2021-01-01",
+      "awarder": "The University of Texas at Austin",
+    }
+    {
+      "title": "Royston M. Roberts Fellowship in Chemistry",
+      "date": "2020-08-21",
+      "awarder": "The University of Texas at Austin",
+    }
+    {
+      "title": "Maddin Endowed Scholarship in Chemistry",
+      "date": "2020-08-21",
+      "awarder": "The University of Texas at Austin",
+    }
+    {
+      "title": "International Doctoral Fellowship Program",
+      "date": "2021-09-01",
+      "awarder": "Mexican National Council of Humanities, Sciences and Technologies",
+      "url": "https://conahcyt.mx/becas_posgrados/becas-al-extranjero/",
+      "summary": "Prestigious and highly competitive fellowship awarded to exceptionally talented Mexican students for studies abroad in scientific and humanistic disciplines."
+    }
+    {
+      "title": "Edward G. Weston Summer Fellowship",
+      "date": "2024-04-24",
+      "awarder": "The Electrochemical Society",
+      "url": "https://www.electrochem.org/summer-fellowships",
+      "summary": "This award assists students during the summer months in the pursuit of work in a field of interest to ECS."
+    }
+    {
+      "title": "Jeff Byers Memorial Graduate Award in Chemistry and Chemical Engineering",
+      "date": "2024-04-25",
+      "awarder": "The University of Texas at Austin",
+      "url": "https://byers.austin.utexas.edu/",
+      "summary": "The Jeff Byers Memorial Graduate Award was created to recognize a graduate student in the Department of Chemistry or the McKetta Department of Chemical Engineering who exhibits academic excellence, integrity, a collaborative spirit, compassion towards others, and who passionately contributes to the advancement of peers and to the disciplines of science and engineering."
+    }
+    {
+      "title": "RSCPoster competition 2024",
+      "date": "2024-03-20",
+      "awarder": "The Royal Society of Chemistry",
+      "url": "https://www.rsc.org/our-events/rsc-poster/",
+      "summary": "First place in the Energy category. Poster: Trace Metal Incorporation Through In Situ Cation Exchange: Effects on Energy Conversion and Storage Properties."
+    }
+    {
+      "title": "RSCPosterPitch award 2024",
+      "date": "2024-03-20",
+      "awarder": "The Royal Society of Chemistry",
+      "url": "https://www.linkedin.com/posts/raulamm94_rscposter-rscposterpitch-rscenergy-activity-7170796574682275843-MIzJ/",
+      "summary": "Best poster pitch video. Poster: Trace Metal Incorporation Through In Situ Cation Exchange: Effects on Energy Conversion and Storage Properties."
+    }
+    {
+      "title": "Chemistry Department Service Award 2024",
+      "date": "2024-03-16",
+      "awarder": "The University of Texas at Austin",
+    }
+    {
+      "title": "Materials Horizons Community Board Member",
+      "date": "2023-10-08",
+      "awarder": "The Royal Society of Chemistry",
+      "url": "https://www.rsc.org/journals-books-databases/about-journals/materials-horizons/#Community-board",
+      "summary": "The Materials Horizons Community Board is an early career advisory board made up of researchers with expertise across all areas of the journal’s scope. The board members provide feedback and advice regarding journal activities, as well as acting as advocates for the journal.."
+    }
+    {
+      "title": "ECS Texas Section Travel Award",
+      "date": "2023-10-03",
+      "awarder": "The Electrochemical Society",
+      "summary": "Travel award for the 244th ECS Meeting held in Gothenburg, Sweden."
+    }
+    {
+      "title": "General Student Poster Session Award (First place)",
+      "date": "2023-05-30",
+      "awarder": "The Electrochemical Society",
+      "url": "https://www.electrochem.org/ecsnews/243-student-poster-award-winners/",
+    }
+    {
+      "title": "ECS Texas Section Travel Award",
+      "date": "2023-10-03",
+      "awarder": "The Electrochemical Society",
+      "summary": "Travel award for the 243rd ECS Meeting held in Boston, MA."
+    }
+    {
+      "title": "Master Thesis Competition (First place)",
+      "date": "2022-10-11",
+      "awarder": "Mexican Hydrogen Society",
+      "url": "https://hidrogeno.org.mx/",
+    }
+    {
+      "title": "Faraday 2021 Teaching Award",
+      "date": "2021-11-17",
+      "awarder": "The University of Texas at Austin",
+    }
+    {
+      "title": "Henze 2021 Teaching Award",
+      "date": "2021-05-03",
+      "awarder": "The University of Texas at Austin",
+    }
+    {
+      "title": "Chemistry Department Service Award 2021",
+      "date": "2021-03-16",
+      "awarder": "The University of Texas at Austin",
+    }
+    {
+      "title": "MS in Chemistry - Cum Laude Academic Honor",
+      "date": "2020-07-04",
+      "awarder": "Universidad Autonoma de Chihuahua",
+    }
+    {
+      "title": "Matías Romero Visiting Scholars Program",
+      "date": "2019-07-04",
+      "awarder": "The University of Texas at Austin",
+      "url": "https://www.gob.mx/sre/documentos/programa-de-investigaciones-conjuntas-matias-romero-para-profesores-visitantes-y-estudiantes-de-posgrado-2019-2020-en-eua",
+      "summary": "Research fellowship awarded to outstanding Mexican researchers for collaborative research with faculty at UT-Austin."
+    }
+    {
+      "title": "BE in Chemical Engineering - Cum Laude Academic Honor",
+      "date": "2017-11-15",
+      "awarder": "Universidad Autonoma de Chihuahua",
+    }
+    {
+      "title": "2017 Harry West Student Poster Award (First place)",
+      "date": "2017-11-01",
+      "awarder": "The American Institute of Chemical Engineers",
+      "url": "https://www.aiche.org/community/awards/harry-west-student-poster-award",
+      "summary": "Poster award received at the 2017 AIChE Annual Meeting in Minneapolis, MN."
+    }
+    {
+      "title": "Oral Presentation Contest (First place)",
+      "date": "2016-09-05",
+      "awarder": "Mexican National Council of Humanities, Sciences and Technologies",
+      "summary": "First place at a regional symposium for young undergraduate researchers held in Chihuahua, Mexico, 2016."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "IOP Peer Review Excellence",
+      "date": "2023-10-08",
+      "issuer": "IOP Publishing",
+      "url": "https://accreditations.ioppublishing.org/ec759a9d-79e3-4787-b985-c8614120207f#gs.8palul",
       "icon": "fa-solid fa-clipboard-check"
-    }
+    },
+    {
+      "name": "Responsible Conduct of Research",
+      "date": "2020-09-11",
+      "issuer": "Collaborative Institutional Training Initiative ",
+      "url": "https://about.citiprogram.org/series/responsible-conduct-of-research-rcr/",
+      "icon": "fa-solid fa-clipboard-check"
+    },
   ],
   "publications": [
     {
