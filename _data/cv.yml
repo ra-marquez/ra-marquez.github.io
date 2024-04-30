@@ -6,11 +6,9 @@
     - name: Position
       value: Ph.D. Candidate
     - name: Email
-      value: raul.marquez@utexas.edu
+      value: [raul.marquez@utexas.edu](raul.marquez@utexas.edu)
     - name: Phone number
       value: +1(737) 703-2326
-    - name: LinkedIn Profile
-      value: https://www.linkedin.com/in/raulamm94/
     - name: Address
       value: 200 E Dean Keeton St, Austin, TX 78712, United States
     - name: Languages
