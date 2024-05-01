@@ -95,7 +95,7 @@
         - title: Electrochemical engineering and device prototyping
           contents:
             - Designed and built 12+ custom electrochemical cells for electrocatalyst testing, zero-gap water electrolysis, flow electrodeposition, real-time bubble visualization, and in situ Raman spectroscopy.
-            - Implemented laboratory automation strategies to accelerate the electrodeposition of catalytic films. 
+            - Implemented laboratory automation strategies for high-throughput catalyst electrodeposition. 
             - Studied the impact of electrode architecture on bubble removal during water electrolysis via 3D printing.
         - title: Electrochemistry education
           contents:
