@@ -14,7 +14,7 @@
     - name: Languages
       value: English, Spanish (native proficiency)
     - name: Links
-      value: <a href="https://orcid.org/0000-0003-3885-5007">ORCID</a>,<a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a>,<a href="https://www.linkedin.com/in/raulamm94/">LinkedIn</a> 
+      value: <a href="https://orcid.org/0000-0003-3885-5007">ORCID</a>  <a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a>  <a href="https://www.linkedin.com/in/raulamm94/">LinkedIn</a> 
 
 - title: Education
   type: time_table
@@ -266,7 +266,8 @@
         - International instructor for Clubes de Ciencia MX / ITESM
         - Participated as the leading instructor of a science summer club organized by Clubes de Ciencia MX, ITESM, and CIMAV.
         - Taught five sessions about electrochemistry concepts and electrocatalysis, with four laboratory sessions. 
-        - Fifteen students learned to make an inexpensive potentiostat with Arduino and LabVIEW. 
+        - Fifteen students learned to make an inexpensive potentiostat with Arduino and LabVIEW.
+        - <a href="https://clubesdeciencia.mx/clubes-2023/">Link</a> to the CdeCMx 2023 Edition
 
     - title: Electrochemistry - How Do We Transport Energy?  
       year: 2022
@@ -275,6 +276,7 @@
         - Participated as the leading instructor of a science summer club organized by Clubes de Ciencia MX, ITESM, and UANL.
         - Taught five sessions about electrochemical energy devices and materials chemistry, with four laboratory sessions.
         - Over 20 students constructed and tested water electrolyzers, fuel cells, and batteries.
+        - <a href="https://clubesdeciencia.mx/clubes22/">Link</a> to the CdeCMx 2022 Edition
 
     - title: Quantum Chemistry for Kids 
       year: 2019
