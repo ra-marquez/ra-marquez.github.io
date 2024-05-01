@@ -77,6 +77,7 @@
       institution: The University of Texas at Austin, Mullins Research Group
       year: 2020-Now
       description:
+        - Photoelectrochemistry subgroup - Alkaline Water Electrolysis Research.
         - title: Understanding electrocatalytic stability during alkaline water electrolysis
           contents:
             - Investigated the effects of intermittent water electrolysis on the surface composition and dissolution of transition metal-based electrocatalysts.
@@ -84,21 +85,21 @@
             - Developed protocols to test electrocatalyst stability using lab-scale alkaline water electrolyzers.
             - Developed protocols to purify and determine trace metal impurities in alkaline electrolytes using inductively coupled plasma mass spectrometry and electrochemical methods.
             - Development of automated potentiostat sequences for examining electrocatalytic performance.
-            -	Electrodeposition of electrocatalysts with thin film architecture
-          - title: Electrocatalytic performance of earth-abundant catalysts for water splitting
+            - Electrodeposition of electrocatalysts with thin film architecture.
+        - title: Electrocatalytic performance of earth-abundant catalysts for water splitting
           contents:
-            - Assisted in writing and editing a comprehensive review on transition metal boride, carbide, pnictide, and chalcogenide water oxidation electrocatalysts from over 890 peer-reviewed reports published from 2013 to 2022. Compiled a database of  900+ catalysts and designed a protocol for evaluating catalytic performance using in situ/operando characterization techniques.
+            - Assisted in writing and editing a comprehensive review on transition metal boride, carbide, pnictide, and chalcogenide water oxidation electrocatalysts from over 890 peer-reviewed reports published from 2013 to 2022. Compiled a database of  900+ catalysts and designed a protocol for evaluating catalytic performance using in situ and operando characterization techniques.
             - Employed statistical and machine learning methods to derive catalytic performance trends from experimental databases of water oxidation electrocatalysts.
             - Extensive use of physical, chemical, and electrochemical characterization techniques.
             - Synthesized and tested Ni-based pnictide and chalcogenide water-splitting electrocatalysts using 3D-printed electrochemical flow cells.
-          - title: Electrochemical engineering and device prototyping
+        - title: Electrochemical engineering and device prototyping
           contents:
             - Designed and built 12+ custom electrochemical cells for electrocatalyst testing, zero-gap water electrolysis, flow electrodeposition, real-time bubble visualization, and in situ Raman spectroscopy.
             - Implemented laboratory automation strategies to accelerate the electrodeposition of catalytic films. 
             - Studied the impact of electrode architecture on bubble removal during water electrolysis via 3D printing.
         - title: Electrochemistry education
           contents:
-            - Developed a comprehensive educational workshop for teaching concepts of electrochemical energy devices to high school and undergraduate students using active learning strategies
+            - Developed a comprehensive educational workshop for teaching concepts of electrochemical energy devices to high school and undergraduate students using active learning strategies.
         - title: Other collaborations
           contents:
             - Collaborated with Mexican researchers to use SU-101 MOF materials as cathodes in lithium-sulfur batteries.
@@ -116,7 +117,7 @@
         - Designed and optimized an electrochemical flow reactor for sulfite ion electrooxidation and high-purity hydrogen production using simulated flue gas emissions.
         - Designed and built 6+ electrochemical flow cells using affordable 3D printing materials.
         - Investigated the hydrodynamics, flow distribution, and mass transfer of electrochemical flow cells using COMSOL Multiphysics simulations, tracer injection tests, and dimensional analysis.
-        -	Studied the kinetics of sulfite ion electrooxidation on Pd electrocatalysts using a rotating disk electrode.
+        - Studied the kinetics of sulfite ion electrooxidation on Pd electrocatalysts using a rotating disk electrode.
     - title: Undergraduate Research Assistant
       institution: Universidad Autonoma de Chihuahua, Ramos Research Group
       year: 2015 - 2017
