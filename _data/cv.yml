@@ -13,50 +13,67 @@
       value: 200 E Dean Keeton St, Austin, TX 78712, United States
     - name: Languages
       value: English, Spanish (native proficiency)
+    - name: Links
+      value: <a href="https://orcid.org/0000-0003-3885-5007">ORCID</a> <a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a> <a href="https://www.linkedin.com/in/raulamm94/">LinkedIn</a> 
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Chemistry
+      institution: The University of Texas at Austin, Austin, Texas, US
+      year: 2024-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Analytical Chemistry division
+        - Start date August 2020
+        - GPA 4.0
+        - Advisor - Prof. C. Buddie Mullins
+        #- title: Description 3.
+          #contents:
+            #- Sub-description 1.
+            #- Sub-description 2.
+    - title: MS Chemistry
+      institution: Universidad Autonoma de Chihuahua, Chihuahua, Mexico
+      year: 2018 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - GPA 4.0 (Cum Laude Academic Honor)
+        - Advisor - Prof. Victor H. Ramos-Sanchez
+        - Thesis - <a href="http://repositorio.uach.mx/444/">Evaluating and Optimizing Sulfite Electrooxidation in a Parallel-plate Reactor</a>
 
-- title: Experience
+    - title: BE Chemical Engineering
+      institution: Universidad Autonoma de Chihuahua, Chihuahua, Mexico
+      year: 2012 - 2017
+      description:
+        - GPA 4.0 (Cum Laude Academic Honor)
+        - Advisor - Prof. Victor H. Ramos-Sanchez
+        - Thesis - Design of an Electrochemical Membrane Reactor for Hydrogen Production via the Hybrid Thermochemical Sulfur-Ammonia Cycle 
+
+- title: Work/Teaching Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Teaching Assistant
+      institution: The University of Texas at Austin
+      year: 2020 - 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Taught Introduction to Chemical Practice, CH 204, in Fall 2020 and Spring 2021.
+        - Responsibilities included guiding students through introductory chemistry experiments, grading reports, leading online and laboratory sessions, preparing lectures, and holding office hours.
+        - Received two teaching awards from UT-Austin
+        #- title: Description 3.
+         # contents:
+            #- Sub-description 1.
+            #- Sub-description 2.
+            
+    - title: Research Assistant
+      institution: Universidad Autonoma de Chihuahua
+      year: 2017 - 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Hired by Prof. Victor H. Ramos-Sanchez for a one-year position as a research assistant to conduct corrosion tests and passivation experiments on stainless steel in collaboration with KAT Aerospace and the Advanced Materials Research Center in Chihuahua, Mexico.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Undergraduate Teaching Assistant
+      institution: Universidad Autonoma de Chihuahua
+      year: 2017 - 2018
+      description:
+        - Assisted Prof. Victor H. Ramos-Sanchez in teaching undergraduate Physical Chemistry and graduate Instrumental Analysis courses for two semesters. Responsibilities included leading physical chemistry laboratory sessions, holding office hours, and grading coursework, presentations, exams, and final projects.
+        - Assisted in the development of 6+ laboratory experiments and lectures.
 
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
@@ -67,23 +84,226 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
+- title: Volunteering
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: UT-Austin ECS Student Chapter
+      year: 2023-now
+      description: 
+        - Served as the secretary of the Electrochemical Society student chapter at UT-Austin.
+        - Started a series of Chalk Talks in electrochemistry for the local ECS Student Chapter.
+        - Developed an official website and managed social media accounts.
+        - Served as the photographer for academic and outreach activities.
+        - Recorded and edited seminar recordings for posting on the chapter’s YouTube channel.
+        - Coordinated social events and one academic seminar for the regional Texas ECS Section.
+        - <a href="https://sites.utexas.edu/ecs/">Website</a>
+
+    - title: Department of Chemistry, UT-Austin
+      year: 2021-now
+      description: 
+        - Assisted the Department of Chemistry as a graduate recruiter and student host. 
+        - Hosted eight visiting students and served as staff during recruitment events.
+        - Held six seminars at the top five national universities in Mexico, explaining the application process for the Fall 2023 period, and engaged with over 30 students through both face-to-face and online conversations.
+        - Guided seven students through their application process.
+        - Held ten Zoom sessions to help four prospective international students enhance their English skills and prepare for the TOEFL and IELTS exams.
+        - Received two service awards from the Chemistry Department.
+
+    - title: Mexican Youth Red Cross at Chihuahua
+      year: 2009 - 2013
+      description: 
+        - Served as a part-time Mexican Youth Red Cross volunteer, a nonprofit and charity association.
+        - Worked as a Young Leader of the Health and Life Protection branch at the Mexican Youth Red Cross office in Chihuahua, impacting over 120 people in need.
+        - Received training in first-aid, CPR, advanced burn life support, humanitarian aid, disaster relief, health and safety campaigns, sexual education, and sport promotion activities.
+        - Participated in over 40 community service and humanitarian relief activities and three major disaster operations (earthquakes and snowstorms).
+        - Received rope rescue training and became an instructor.
+        - Co-author of a comprehensive handbook on rope rescue for the Mexican Youth Red Cross.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020-now
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - <a href="https://cm.utexas.edu/academics/graduate/prospective-students/recruiting-fellowships">Provost’s Graduate Excellence Fellowship</a>, UT-Austin 
+        - Morton Share Trust Graduate Fellowship, UT-Austin
+        - Royston M. Roberts Fellowship in Chemistry, UT-Austin   
+        - Maddin Endowed Scholarship in Chemistry, UT-Austin
+    - year: 2021-now
       items:
-        - Max Planck Medal
+        - <a href="https://conahcyt.mx/becas_posgrados/becas-al-extranjero/">International Doctoral Fellowship Program</a>, Mexican National Council of Humanities, Sciences and Technologies
+    - year: 2024
+      items:
+        - <a href="https://www.electrochem.org/summer-fellowships">Edward G. Weston Summer Fellowship</a>, The Electrochemical Society
+        - <a href="https://byers.austin.utexas.edu/">Jeff Byers Memorial Graduate Award in Chemistry and Chemical Engineering</a>, UT-Austin
+        - <a href="https://www.rsc.org/our-events/rsc-poster/">RSCPoster competition 2024</a>, First place (Energy), The Royal Society of Chemistry
+        - <a href="https://www.linkedin.com/posts/raulamm94_rscposter-rscposterpitch-rscenergy-activity-7170796574682275843-MIzJ/">RSCPosterPitch award 2024</a>, Best poster pitch video, The Royal Society of Chemistry
+        - Chemistry Department Service Award, UT-Austin
+    - year: 2023
+      items:
+        - <a href="https://www.rsc.org/journals-books-databases/about-journals/materials-horizons/#Community-board">Materials Horizons Community Board Member</a>, The Royal Society of Chemistry
+        - ECS Texas Section Travel Award for the 244th ECS Meeting held in Gothenburg, Sweden. The Electrochemical Society
+        - <a href="https://www.electrochem.org/ecsnews/243-student-poster-award-winners/">General Student Poster Session Award</a> (First place), The Electrochemical Society
+        - ECS Texas Section Travel Award for the 243rd ECS Meeting held in Boston, US. The Electrochemical Society
+    - year: 2022
+      items:
+        - Master Thesis Competition (First place), Mexican Hydrogen Society
+    - year: 2021
+      items:
+        - Faraday 2021 Teaching Award, UT-Austin
+        - Henze 2021 Teaching Award, UT-Austin 
+        - Chemistry Department Service Award, UT-Austin 
+    - year: 2020
+      items:
+        - MS in Chemistry - Cum Laude Academic Honor, Universidad Autonoma de Chihuahua
+    - year: 2019
+      items:
+        - <a href="https://www.gob.mx/sre/documentos/programa-de-investigaciones-conjuntas-matias-romero-para-profesores-visitantes-y-estudiantes-de-posgrado-2019-2020-en-eua">Matias Romero Visiting Scholars Program</a> (First place), UT-Austin and Secretary of Foreign Affairs (Mexico)
+    - year: 2017
+      items:
+        - BE in Chemical Engineering - Cum Laude Academic Honor, Universidad Autonoma de Chihuahua 
+        - <a href="https://www.aiche.org/community/awards/harry-west-student-poster-award">Harry West Student Poster Award</a> (First place), The American Institute of Chemical Engineers
+    - year: 2016
+      items:
+        - Oral Presentation Contest (First place), Mexican National Council of Humanities, Sciences and Technologies
+
+- title: Certificates
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - <a href="https://accreditations.ioppublishing.org/ec759a9d-79e3-4787-b985-c8614120207f#gs.8palul">IOP Peer Review Excellence</a>, IOP Publishing
+    - year: 2020
+      items:
+        - Responsible Conduct of Research, CITI Program
+
+- title: Memberships and Affiliations 
+  type: time_table
+  contents:
+    - title: Community Board Member 
+      institution: Materials Horizons Journal, The Royal Society of Chemistry  
+      year: 2023-now
+    - title: Secretary
+      institution: UT-Austin ECS Student Chapter
+      year: 2023-now
+    - title: Member
+      institution: The Royal Society of Chemistry
+      year: 2023-now
+    - title: Member
+      institution: The American Institute of Chemical Engineers   
+      year: 2023-now
+    - title: Member
+      institution: The Electrochemical Society	
+      year: 2022-now
+    - title: Member
+      institution: Mexican Hydrogen Society 	
+      year: 2022-now
+    - title: International Instructor and Ambassador
+      institution: Clubes de Ciencia MX
+      year: 2022-now
+    - title: Member
+      institution: American Chemical Society 	
+      year: 2021-now
+    - title: Young Leader
+      institution: Mexican Youth Red Cross
+      year: 2009 - 2013
+
+- title: Mentoring Experience
+  type: time_table
+  contents:
+    - title: Chloe Williamson
+      year: 2024-now
+      description: Undergraduate student (chemical engineering), UT-Austin
+    - title: Thuy Vy Le
+      year: 2023-now
+      description: Undergraduate student (chemistry), UT-Austin
+    - title: Daniel Y. Ko
+      year: 2023
+      description: Undergraduate student (chemical engineering), UT-Austin   
+    - title: Sergio Ochoa
+      year: 2023-now
+      description: Undergraduate student (chemical engineering), UACH
+    - title: Michael Espinosa
+      year: 2023-now
+      description: Undergraduate student (chemistry), UT-Austin
+    - title: Emma Kalokowski
+      year: 2022-now
+      description: Undergraduate student (chemistry), UT-Austin
+    - title: Grace Castellino
+      year: 2022
+      description: Undergraduate student (chemistry), UT-Austin
+    - title: Grayson Constantine
+      year: 2021-2022
+      description: Undergraduate student (chemical engineering), UT-Austin 
+    - title: Kenya Mora-Dominguez
+      year: 2020-2022
+      description: Master student (chemistry), UACH
+
+- title: Entrepreneurial Activities 
+  type: time_table
+  contents:
+    - title: VirtAgro 
+      year: 2021
+      description: 
+        - Mentored and guided three undergraduate students, Mariella, Job, and Joel, in developing an intelligent sprinkler system controlled by a smartphone app and looking for potential customers through the business model canvas tool.
+        - The team qualified as semifinalists for the QuimInnova Pitch Competition (Fall 2021).
+
+    - title: Entrepreneurship, From Ideas to Businesses, UNAM/Santander
+      year: 2019
+      description: 
+        - Trained in developing new skills and identifying the necessary tools for becoming a successful young entrepreneur. 
+        - The course reviewed essential finances, markets, customers, benchmarking, marketing, human resources, and business model canvas.
+
+    - title: Entrepreneur Leader, H24U
+      year: 2019
+      description: 
+        - Received training in the <a href="https://new.nsf.gov/funding/initiatives/i-corps">I-Corps program</a> of the US National Science Foundation (NSF) to determine the commercial viability of the technology
+        - Participated as entrepreneur leader in developing an electrochemical system for ultra-pure hydrogen generation (H24U).
+        - The program was funded by the CONACyT (Mexico) and the NSF (United States) as part of the Northwest Binational Innovation Node (NoBI Noroeste). .
+        - Over 130 potential customers were interviewed, a business model canvas was developed, and a potential market was identified.
+        - <a href="https://www.youtube.com/watch?v=FT6OlMGNJ5M">Video of the project (Spanish)</a>
+
+- title: Science Communication 
+  type: time_table
+  contents:
+    - title: <a href="https://www.youtube.com/@Catalastic">Catalastic!</a> YouTube Channel 
+      year: 2023
+      description: 
+        - Personal project to advance science communication through social media.
+
+    - title: Bright Spikes! Electrifying Chemical Reactions 
+      year: 2023
+      description: 
+        - International instructor for Clubes de Ciencia MX / ITESM
+        - Participated as the leading instructor of a science summer club organized by Clubes de Ciencia MX, ITESM, and CIMAV.
+        - Taught five sessions about electrochemistry concepts and electrocatalysis, with four laboratory sessions. 
+        - Fifteen students learned to make an inexpensive potentiostat with Arduino and LabVIEW. 
+
+    - title: Electrochemistry: How Do We Transport Energy?  
+      year: 2022
+      description: 
+        - International instructor for Clubes de Ciencia MX / ITESM
+        - Participated as the leading instructor of a science summer club organized by Clubes de Ciencia MX, ITESM, and UANL.
+        - Taught five sessions about electrochemical energy devices and materials chemistry, with four laboratory sessions.
+        - Over 20 students constructed and tested water electrolyzers, fuel cells, and batteries.
+
+    - title: Quantum Chemistry for Kids 
+      year: 2019
+      description: 
+        - Developed a 3D-printed interactive game for teaching atomic structure concepts to elementary school students, as part of the Graduate Quantum Chemistry course imparted by Dr. Maria Elena Fuentes.
+        - Over 20 students were taught in two sessions. The school received four 3D-printed, interactive boards.
+
+    - title: From Photons to Electrons 
+      year: 2018
+      description: 
+        - Guest instructor for Clubes de Ciencia MX / ITESM.
+        - Participated as a guest instructor of a science summer club organized by Clubes de Ciencia MX, ITESM, and UACH.
+        - Taught two sessions about dye-sensitized solar cells and solar panels made by the students.
+        - Over 30 students learned how to make inexpensive solar cells and characterize their electrochemical performance.
+
+    - title: Science Podcasts and Talk Shows 
+      year: 2021
+      description: 
+        - Participated as a guest speaker at UACH’s radio station for podcasting science topics about chemistry in daily life. 
+        - Over 50 science topics were recorded, edited, and broadcasted in 2016, impacting 1000+ listeners.
 
 - title: Academic Interests
   type: nested_list
