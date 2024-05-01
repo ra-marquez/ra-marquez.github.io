@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='[#](https://cm.utexas.edu/)'>Department of Chemistry, The University of Texas at Austin</a>. 
+subtitle: <a href='https://cm.utexas.edu/'>Department of Chemistry, The University of Texas at Austin</a>. 
 
 profile:
   align: right
@@ -19,6 +19,6 @@ news: true # includes a list of news items
 ---
 Welcome! I’m Raul, a PhD candidate in Chemistry at the University of Texas at Austin. I earned my BE in Chemical Engineering and MS in Chemistry, both Cum Laude, from Universidad Autonoma de Chihuahua, Mexico.  
 
-With over eight years of research in electrocatalysis, materials chemistry, and electrochemical engineering, I have extensive experience in device prototyping and optimization, materials characterization, and electrochemical techniques. My academic journey is supported by a strong publication record and successful project leadership. I'm also passionate about science communication and reinvigorating education. I am committed to leading a research group dedicated to studying electrochemical phenomena, aiming to develop innovative technologies and materials that contribute to global sustainability.
+With over eight years of research in electrocatalysis, materials chemistry, and electrochemical engineering, I have extensive experience in device prototyping, materials characterization, and electrochemistry. My academic journey is supported by a strong publication record and successful project leadership. I'm also passionate about science communication and education. I'm committed to leading a research group dedicated to advancing sustainability in chemistry and engineering.
 
 Please feel free to reach out. I'm always open to collaborations and eager to assist others!
