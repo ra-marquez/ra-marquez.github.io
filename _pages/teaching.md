@@ -55,7 +55,7 @@ I have always loved science communication. I firmly believe that communicating s
     </div>
 </div>
 
-Description about oral communication. 
+Description of oral communication. 
 
 In progress!
 
