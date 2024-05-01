@@ -180,7 +180,7 @@
       items:
         - Oral Presentation Contest (First place), Mexican National Council of Humanities, Sciences and Technologies
 
-- title: Certificates
+- title: Certifications
   type: time_table
   contents:
     - year: 2023
@@ -189,6 +189,13 @@
     - year: 2020
       items:
         - Responsible Conduct of Research, CITI Program
+
+- title: Mentoring Experience
+  type: time_table
+  contents:
+    - title: 244th ECS meeting, Gothenburg, Sweden
+      year: Oct 2023
+      description: Understanding the Effects of Transition Metal Impurities on Nickel (oxy)hydroxide Electrocatalysts in Alkaline Media
 
 - title: Memberships and Affiliations 
   type: time_table
