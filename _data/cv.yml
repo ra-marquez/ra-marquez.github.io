@@ -38,7 +38,6 @@
         - GPA 4.0 (Cum Laude Academic Honor)
         - Advisor - Prof. Victor H. Ramos-Sanchez
         - Thesis - <a href="http://repositorio.uach.mx/444/">Evaluating and Optimizing Sulfite Electrooxidation in a Parallel-plate Reactor</a>
-
     - title: BE Chemical Engineering
       institution: Universidad Autonoma de Chihuahua, Chihuahua, Mexico
       year: 2012 - 2017
@@ -60,14 +59,12 @@
         #- title: Description 3.
          # contents:
             #- Sub-description 1.
-            #- Sub-description 2.
-            
+            #- Sub-description 2.        
     - title: Research Assistant
       institution: Universidad Autonoma de Chihuahua
       year: 2017 - 2018
       description:
         - Hired by Prof. Victor H. Ramos-Sanchez for a one-year position as a research assistant to conduct corrosion tests and passivation experiments on stainless steel in collaboration with KAT Aerospace and the Advanced Materials Research Center in Chihuahua, Mexico.
-
     - title: Undergraduate Teaching Assistant
       institution: Universidad Autonoma de Chihuahua
       year: 2017 - 2018
@@ -88,7 +85,6 @@
         - Recorded and edited seminar recordings for posting on the YouTube channel of the chapter.
         - Coordinated social events and one academic seminar for the regional Texas ECS Section.
         - <a href="https://sites.utexas.edu/ecs/">Website</a>
-
     - title: Department of Chemistry, UT-Austin
       year: 2021-now
       description: 
@@ -98,7 +94,6 @@
         - Guided seven students through their application process.
         - Held ten Zoom sessions to help four prospective international students enhance their English skills and prepare for the TOEFL and IELTS exams.
         - Received two service awards from the Chemistry Department.
-
     - title: Mexican Youth Red Cross at Chihuahua
       year: 2009 - 2013
       description: 
@@ -190,12 +185,79 @@
       items:
         - Responsible Conduct of Research, CITI Program
 
-- title: Mentoring Experience
+- title: Oral Presentations
   type: time_table
   contents:
-    - title: 244th ECS meeting, Gothenburg, Sweden
-      year: Oct 2023
+    - title: 244th ECS meeting, Gothenburg, Sweden   
+      year: Oct. 2023
       description: Understanding the Effects of Transition Metal Impurities on Nickel (oxy)hydroxide Electrocatalysts in Alkaline Media
+    - title: Electrochemistry Chalk Talks Series, UT-Austin ECS Chapter, Austin, TX
+      year: Nov. 2023
+      description: (Invited) Mastering the Art of Composing Scientific Graphics. <a href="https://www.youtube.com/watch?v=ubL84IKbsIM">Recording</a>
+    - title: Electrochemistry Chalk Talks Series, UT-Austin ECS Chapter, Austin, TX
+      year: Apr. 2023
+      description: (Invited) Understanding Electrochemical Double Layer Capacitance Measurements. <a href="https://www.youtube.com/watch?v=cwRVWxTv9hk">Recording</a> 
+    - title: Hispanic Engineers Leadership Series, AIChE Chapter at UANL,  Monterrey, Mexico
+      year: Oct 2022
+      description: (Invited - Plenary Speaker) Splitting Water with Electrons: Powering a Safer and Greener Future.
+    - title: ChemE Future Faculty Diversity Seminar Series, Zoom 
+      year: Sep. 2022
+      description: (Online) Taking the Next Step in Electrocatalysis: Closing Gaps Between Lab-scale Electrochemistry and Electrochemical Engineering.
+    - title: Energy and Society Virtual Plenary Session, UABC, Zoom 
+      year: Nov. 2020
+      description: (Invited, Online) Unraveling Electrochemical Water Splitting: Are Electrocatalysts Truly Stable? <a href="https://www.facebook.com/1428471490787415/videos/453519685629623">Recording (Spanish)</a> 
+    - title: ECS Monthly Webinars Plenary Session, UT-Austin, Zoom 
+      year: Jun. 2020
+      description: (Invited, Online) Hydrogen from Sulfite Electrolysis: Toward the Rational Design and Optimization of Practical Electrochemical Flow Cell Systems
+    - title: 14th HYPOTHESIS International Symposium, Foz do Iguaçu, Brazil
+      year: Apr. 2019
+      description: Sulfur dioxide exploitation by electrochemical oxidation of sulfite in near-neutral pH via the Sulfur-Ammonia Cycle
+    - title: 2017 AIChE Annual Meeting, AIChE, Minneapolis, MN
+      year: Oct. 2017
+      description: Design of an Electrochemical Membrane Reactor for Hydrogen Production via the Sulfur-Ammonia Cycle
+    - title: Young Researchers Symposium, CONACyT, Guanajuato, Mexico
+      year: Sep. 2016
+      description: Design of an Ion-Exchange Membrane Electrochemical Reactor for Hydrogen Production via the S-NH3 Cycle 
+
+- title: Poster Presentations
+  type: time_table
+  contents:
+    - title: RSCPoster competition, LinkedIn
+      year: Mar. 2024
+      description: 
+        - (Online) Trace Metal Incorporation Through In Situ Cation Exchange - Effects on Energy Conversion and Storage Properties. 
+        - Energy category award (First place) and best RSCPosterPitch award. 
+    - title: 243rd ECS meeting with SOFC-XVIII, Boston, Massachusetts   
+      year: May 2023
+      description: 
+        - Six Practices to Improve Alkaline Electrolyte Preparation. 
+        - General Student Poster Session award (First place). 
+    - title: CEC Annual Workshop on Electrochemistry, UT-Austin, Austin, Texas
+      year: Feb. 2023
+      description: Six Steps to Prepare Alkaline Electrolytes for Electrochemical Applications
+    - title: LatinXChem 2022 Virtual Poster Session, LatinXChem, Twitter
+      year: Nov. 2022
+      description: (Online) Tailoring 3D-Printed Electrodes for Enhanced Water Splitting
+    - title: ACS Southwest Regional Meeting Poster Session, ACS, Austin, TX
+      year: Nov. 2021
+      description: Flow Cell-Assisted Electrodeposition of Ni-S-P-O Films on Nickel Foam for Electrochemical Water Splitting
+    - title: LatinXChem 2021 Virtual Poster Session, LatinXChem, Twitter 
+      year: Sep. 2021
+      description: (Online) Flow Cell-Assisted Electrodeposition of Ni-S-P-O Films on Nickel Foam for Electrochemical Water Splitting
+    - title: CEC Annual Workshop on Electrochemistry, UT-Austin, Austin, TX
+      year: Feb. 2020
+      description: Simultaneous sulfite electrooxidation and hydrogen production in a 3D-printed electrochemical reactor 
+    - title: CEC Annual Workshop on Electrochemistry, UT-Austin, Austin, TX
+      year: Feb. 2019
+      description: Electrochemical Oxidation of Sulfite in Near-Neutral pH Electrolytes: A Kinetics Study
+    - title: Annual AIChE Student Conference, AIChE, Minneapolis, MN
+      year: Oct. 2017
+      description: 
+        - Design of a Novel Electrochemical Membrane Reactor for Hydrogen Production via the Sulfur-Ammonia Water-Splitting Cycle. 
+        - Harry West Student Poster Award (First place).
+    - title: Green & Sustainable Chemistry Conference, Elsevier, Berlin, Germany
+      year: Apr. 2016
+      description: Design of an Ion-Exchange Membrane Electrochemical Reactor for Hydrogen Production via the S-NH3 Cycle 
 
 - title: Memberships and Affiliations 
   type: time_table
@@ -267,13 +329,11 @@
       description: 
         - Mentored and guided three undergraduate students, Mariella, Job, and Joel, in developing an intelligent sprinkler system controlled by a smartphone app and looking for potential customers through the business model canvas tool.
         - The team qualified as semifinalists for the QuimInnova Pitch Competition (Fall 2021).
-
     - title: Entrepreneurship, From Ideas to Businesses, UNAM/Santander
       year: 2019
       description: 
         - Trained in developing new skills and identifying the necessary tools for becoming a successful young entrepreneur. 
         - The course reviewed essential finances, markets, customers, benchmarking, marketing, human resources, and business model canvas.
-
     - title: Entrepreneur Leader, H24U
       year: 2019
       description: 
@@ -290,7 +350,6 @@
       year: 2023
       description: 
         - Personal project to advance science communication through social media.
-
     - title: Bright Spikes! Electrifying Chemical Reactions 
       year: 2023
       description: 
@@ -299,7 +358,6 @@
         - Taught five sessions about electrochemistry concepts and electrocatalysis, with four laboratory sessions. 
         - Fifteen students learned to make an inexpensive potentiostat with Arduino and LabVIEW.
         - <a href="https://clubesdeciencia.mx/clubes-2023/">Link</a> to the CdeCMx 2023 Edition
-
     - title: Electrochemistry - How Do We Transport Energy?  
       year: 2022
       description: 
@@ -308,13 +366,11 @@
         - Taught five sessions about electrochemical energy devices and materials chemistry, with four laboratory sessions.
         - Over 20 students constructed and tested water electrolyzers, fuel cells, and batteries.
         - <a href="https://clubesdeciencia.mx/clubes22/">Link</a> to the CdeCMx 2022 Edition
-
     - title: Quantum Chemistry for Kids 
       year: 2019
       description: 
         - Developed a 3D-printed interactive game for teaching atomic structure concepts to elementary school students, as part of the Graduate Quantum Chemistry course imparted by Dr. Maria Elena Fuentes.
         - Over 20 students were taught in two sessions. The school received four 3D-printed, interactive boards.
-
     - title: From Photons to Electrons 
       year: 2018
       description: 
@@ -322,7 +378,6 @@
         - Participated as a guest instructor of a science summer club organized by Clubes de Ciencia MX, ITESM, and UACH.
         - Taught two sessions about dye-sensitized solar cells and solar panels made by the students.
         - Over 30 students learned how to make inexpensive solar cells and characterize their electrochemical performance.
-
     - title: Science Podcasts and Talk Shows 
       year: 2021
       description: 
