@@ -15,7 +15,7 @@ profile:
 
 social: true # includes social icons at the bottom of the page
 selected_papers: true # includes a list of papers marked as "selected={true}"
-news: true # includes a list of news items
+news: false # includes a list of news items
 ---
 Welcome! I’m Raul, a PhD candidate in Chemistry at the University of Texas at Austin. I earned my BE in Chemical Engineering and MS in Chemistry, both Cum Laude, from Universidad Autonoma de Chihuahua, Mexico.  
 
