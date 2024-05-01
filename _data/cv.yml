@@ -14,7 +14,7 @@
     - name: Languages
       value: English, Spanish (native proficiency)
     - name: Links
-      value: <a href="https://orcid.org/0000-0003-3885-5007">ORCID</a>  <a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a>  <a href="https://www.linkedin.com/in/raulamm94/">LinkedIn</a> 
+      value: <a href="https://orcid.org/0000-0003-3885-5007">ORCID</a>    <a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a>    <a href="https://www.linkedin.com/in/raulamm94/">LinkedIn</a> 
 
 - title: Education
   type: time_table
@@ -108,6 +108,30 @@
         - Participated in over 40 community service and humanitarian relief activities and three major disaster operations (earthquakes and snowstorms).
         - Received rope rescue training and became an instructor.
         - Co-author of a comprehensive handbook on rope rescue for the Mexican Youth Red Cross.
+
+- title: Selected Publications
+  type: nested_list
+  contents:
+    - title: Metrics from <a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a> (May 2024)
+      items:
+        - Citations - 395
+        - h-index - 11
+        - First-author publications - 9
+        - For a complete list of publications, please visit this <a href="https://ra-marquez.github.io/publications/">page</a>.
+    - title: Completed as a PhD student at UT-Austin.
+      items:
+        - Marquez, R.A., et al. Transition metal incorporation - electrochemical, structure, and chemical effects on nickel oxyhydroxide oxygen-evolution electrocatalysts. Energy & Environmental Science, 2024, 17, 2028-2045. <a href="https://doi.org/10.1039/D3EE03617K">Link</a> 
+        - Marquez, R.A., et al. A Guide to Electrocatalyst Stability Using Lab-Scale Alkaline Water Electrolyzers. ACS Energy Letters, 2024, 9, 2, 547–555. <a href="https://pubs.acs.org/doi/10.1021/acsenergylett.3c02758">Link</a> 
+        - Marquez, R.A., et al. Getting the Basics Right - Preparing Alkaline Electrolytes for Electrochemical Applications. ACS Energy Letters, 2023, 8, 2, 1141–1146. <a href="https://doi.org/10.1021/acsenergylett.2c02847">Link</a> 
+        - Marquez, R.A., et al. Tailoring 3D-Printed Electrodes for Enhanced Water Splitting. ACS Applied Materials & Interfaces, 2022, 14, 37, 42153–42170. <a href="https://doi.org/10.1021/acsami.2c12579">Link</a> 
+        - Marquez, R.A., et al. Mass transport-enhanced electrodeposition of Ni–S–P–O films on nickel foam for electrochemical water splitting. Journal of Materials Chemistry A, 2021, 9, 12, 7736-7749. <a href="https://doi.org/10.1039/D0TA12097A">Link</a> 
+    - title: Completed as an MS Student at UACH.
+      items:
+        - Marquez-Montes, R.A., et al. Simultaneous sulfite electrolysis and hydrogen production using Ni foam-based three-dimensional electrodes. Environmental Science & Technology, 2020, 54, 19, 12511-12520. <a href="https://doi.org/10.1021/acs.est.0c04190">Link</a> 
+        - Marquez-Montes, R.A., et al. Electrochemical engineering assessment of a novel 3D-printed filter-press electrochemical reactor for multipurpose laboratory applications. ACS Sustainable Chemistry & Engineering, 2020, 8, 9, 3896-3905.<a href="https://doi.org/10.1021/acssuschemeng.9b07368">Link</a> 
+    - title: Completed as a BE Student at UACH.
+      items:
+        - Marquez-Montes, R.A., et al. Optimization of the electrooxidation of aqueous ammonium sulfite for hydrogen production at near-neutral pH using response surface methodology. International Journal of Hydrogen Energy, 2020, 45, 27, 13821-13831. <a href="https://doi.org/10.1016/j.ijhydene.2019.08.213">Link</a>
 
 - title: Honors and Awards
   type: time_table
