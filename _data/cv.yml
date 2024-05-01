@@ -189,41 +189,41 @@
   type: time_table
   contents:
     - title: 244th ECS meeting, Gothenburg, Sweden   
-      year: Oct. 2023
+      year: Oct 2023
       description: Understanding the Effects of Transition Metal Impurities on Nickel (oxy)hydroxide Electrocatalysts in Alkaline Media
     - title: Electrochemistry Chalk Talks Series, UT-Austin ECS Chapter, Austin, TX
-      year: Nov. 2023
+      year: Nov 2023
       description: (Invited) Mastering the Art of Composing Scientific Graphics. <a href="https://www.youtube.com/watch?v=ubL84IKbsIM">Recording</a>
     - title: Electrochemistry Chalk Talks Series, UT-Austin ECS Chapter, Austin, TX
-      year: Apr. 2023
+      year: Apr 2023
       description: (Invited) Understanding Electrochemical Double Layer Capacitance Measurements. <a href="https://www.youtube.com/watch?v=cwRVWxTv9hk">Recording</a> 
-    - title: Hispanic Engineers Leadership Series, AIChE Chapter at UANL,  Monterrey, Mexico
+    - title: Hispanic Engineers Leadership Series, AIChE Chapter at UANL, Monterrey, Mexico
       year: Oct 2022
       description: (Invited - Plenary Speaker) Splitting Water with Electrons: Powering a Safer and Greener Future.
     - title: ChemE Future Faculty Diversity Seminar Series, Zoom 
-      year: Sep. 2022
+      year: Sep 2022
       description: (Online) Taking the Next Step in Electrocatalysis: Closing Gaps Between Lab-scale Electrochemistry and Electrochemical Engineering.
     - title: Energy and Society Virtual Plenary Session, UABC, Zoom 
-      year: Nov. 2020
-      description: (Invited, Online) Unraveling Electrochemical Water Splitting: Are Electrocatalysts Truly Stable? <a href="https://www.facebook.com/1428471490787415/videos/453519685629623">Recording (Spanish)</a> 
+      year: Nov 2020
+      description: (Invited, Online) Unraveling Electrochemical Water Splitting - Are Electrocatalysts Truly Stable? <a href="https://www.facebook.com/1428471490787415/videos/453519685629623">Recording (Spanish)</a> 
     - title: ECS Monthly Webinars Plenary Session, UT-Austin, Zoom 
-      year: Jun. 2020
-      description: (Invited, Online) Hydrogen from Sulfite Electrolysis: Toward the Rational Design and Optimization of Practical Electrochemical Flow Cell Systems
-    - title: 14th HYPOTHESIS International Symposium, Foz do Iguaçu, Brazil
-      year: Apr. 2019
+      year: Jun 2020
+      description: (Invited, Online) Hydrogen from Sulfite Electrolysis - Toward the Rational Design and Optimization of Practical Electrochemical Flow Cell Systems
+    - title: 14th HYPOTHESIS International Symposium, Foz do Iguazu, Brazil
+      year: Apr 2019
       description: Sulfur dioxide exploitation by electrochemical oxidation of sulfite in near-neutral pH via the Sulfur-Ammonia Cycle
     - title: 2017 AIChE Annual Meeting, AIChE, Minneapolis, MN
-      year: Oct. 2017
+      year: Oct 2017
       description: Design of an Electrochemical Membrane Reactor for Hydrogen Production via the Sulfur-Ammonia Cycle
     - title: Young Researchers Symposium, CONACyT, Guanajuato, Mexico
-      year: Sep. 2016
+      year: Sep 2016
       description: Design of an Ion-Exchange Membrane Electrochemical Reactor for Hydrogen Production via the S-NH3 Cycle 
 
 - title: Poster Presentations
   type: time_table
   contents:
     - title: RSCPoster competition, LinkedIn
-      year: Mar. 2024
+      year: Mar 2024
       description: 
         - (Online) Trace Metal Incorporation Through In Situ Cation Exchange - Effects on Energy Conversion and Storage Properties. 
         - Energy category award (First place) and best RSCPosterPitch award. 
@@ -233,30 +233,30 @@
         - Six Practices to Improve Alkaline Electrolyte Preparation. 
         - General Student Poster Session award (First place). 
     - title: CEC Annual Workshop on Electrochemistry, UT-Austin, Austin, Texas
-      year: Feb. 2023
+      year: Feb 2023
       description: Six Steps to Prepare Alkaline Electrolytes for Electrochemical Applications
     - title: LatinXChem 2022 Virtual Poster Session, LatinXChem, Twitter
-      year: Nov. 2022
+      year: Nov 2022
       description: (Online) Tailoring 3D-Printed Electrodes for Enhanced Water Splitting
     - title: ACS Southwest Regional Meeting Poster Session, ACS, Austin, TX
-      year: Nov. 2021
+      year: Nov 2021
       description: Flow Cell-Assisted Electrodeposition of Ni-S-P-O Films on Nickel Foam for Electrochemical Water Splitting
     - title: LatinXChem 2021 Virtual Poster Session, LatinXChem, Twitter 
-      year: Sep. 2021
+      year: Sep 2021
       description: (Online) Flow Cell-Assisted Electrodeposition of Ni-S-P-O Films on Nickel Foam for Electrochemical Water Splitting
     - title: CEC Annual Workshop on Electrochemistry, UT-Austin, Austin, TX
-      year: Feb. 2020
+      year: Feb 2020
       description: Simultaneous sulfite electrooxidation and hydrogen production in a 3D-printed electrochemical reactor 
     - title: CEC Annual Workshop on Electrochemistry, UT-Austin, Austin, TX
-      year: Feb. 2019
-      description: Electrochemical Oxidation of Sulfite in Near-Neutral pH Electrolytes: A Kinetics Study
+      year: Feb 2019
+      description: Electrochemical Oxidation of Sulfite in Near-Neutral pH Electrolytes - A Kinetics Study
     - title: Annual AIChE Student Conference, AIChE, Minneapolis, MN
-      year: Oct. 2017
+      year: Oct 2017
       description: 
         - Design of a Novel Electrochemical Membrane Reactor for Hydrogen Production via the Sulfur-Ammonia Water-Splitting Cycle. 
         - Harry West Student Poster Award (First place).
-    - title: Green & Sustainable Chemistry Conference, Elsevier, Berlin, Germany
-      year: Apr. 2016
+    - title: Green and Sustainable Chemistry Conference, Elsevier, Berlin, Germany
+      year: Apr 2016
       description: Design of an Ion-Exchange Membrane Electrochemical Reactor for Hydrogen Production via the S-NH3 Cycle 
 
 - title: Memberships and Affiliations 
