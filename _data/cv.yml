@@ -322,19 +322,77 @@
         - Participated as a guest speaker at the UACH radio station for podcasting science topics about chemistry in daily life. 
         - Over 50 science topics were recorded, edited, and broadcasted in 2016, impacting 1000+ listeners.
 
-- title: Academic Interests
+- title: Skills and Abilities 
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Strong Personal Skills
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Creativity
+        - Systems thinking
+        - Resilience
+        - Flexibility
+        - Oral communication
+        - Written communication
+        - Teamwork
+        - Leadership
+        - Interpersonal thinking
+        - Emotional intelligence
+        - Self-awareness
+    - title: Instrumental Analysis and Methods
       items:
-        - Description 1.
-        - Description 2.
+        - Scanning and transmission electron microscopy (SEM, TEM)
+        - X-ray diffraction (PXRX, GIXRD)
+        - Electron energy loss spectroscopy (EELS)
+        - X-ray photoelectron spectroscopy (XPS)
+        - non-contact profilometry (NCP)
+        - Infrared spectroscopy (IR)
+        - UV-vis spectroscopy
+        - Raman spectroscopy
+        - Total-reflectance X-ray fluorescence (TXRF)
+        - Gas chromatography (GC)
+        - Inductively coupled plasma mass spectrometry (ICP-MS)
+        - Contact angle measurements
+        - Ion beam milling
+        - Sputter coating
+        - Thermogravimetric analysis (TGA)
+        - Differential scanning calorimetry (DSC)
+        - Tube furnace synthesis
+        - Microwave digestion systems
+        - Demonstrated experience developing analytical protocols for <a href="https://doi.org/10.1021/acs.est.0c04190">electrochemical detection</a>, <a href="https://doi.org/10.1021/acs.est.0c04190">TXRF</a>, <a href="https://doi.org/10.1021/acs.est.0c04190">GC</a>, and <a href="https://www.jsg.utexas.edu/geo392-f21-class-project-group-vf50otr6gr">ICP-MS</a>.
+    - title: Specialized Software
+      items:
+        - SolidWorks
+        - Origin
+        - Minitab
+        - Gamry Echem Analyst
+        - ZView
+        - ImageJ
+        - CasaXPS
+        - Gatan Microscopy Suite
+        - COMSOL Multiphysics
+        - LabVIEW
+        - Arduino
+        - HyperSpy
+        - Maple
+        - Zotero Reference Management
+        - MATLAB
+        - Microsoft Office
+    - title: Digital Editing Software
+      items:
+        - Inkscape
+        - Adobe Illustrator
+        - Adobe Premiere Pro
+        - Adobe Animate
+        - Adobe Photoshop
+        - Blender
+        - GIMP
+    - title: Other
+      items:
+        - Avid outdoorsman
+        - Passionate about science communication, podcasting, photography, video and audio editing, graphic design, and 2D/3D animation
+        - Occasional guitar player
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
