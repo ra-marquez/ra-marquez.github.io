@@ -48,10 +48,10 @@ I have always loved science communication. I firmly believe that communicating s
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=LCGfn40ZSNw" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/LCGfn40ZSNw" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=zRLN3HdLgs0" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/zRLN3HdLgs0" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
