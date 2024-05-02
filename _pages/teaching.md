@@ -64,11 +64,8 @@ Understanding Electrochemical Double Layer Capacitance Measurements
 </div>
 
 Mastering the Art of Composing Scientific Graphics
-<div class="row">
-    <div class="col">
-        {% include video.liquid path="https://www.youtube.com/embed/ubL84IKbsIM" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+{% include video.liquid path="https://www.youtube.com/embed/ubL84IKbsIM" class="img-fluid rounded z-depth-1" %}
+
 
 
 
