@@ -56,13 +56,18 @@ I have developed strong oral communication skills fueled by a deep passion for p
 Check out these recordings of some of my classes, talks, and tutorials!
 
 Understanding Electrochemical Double Layer Capacitance Measurements
-<div class="col-md mt-12 mt-md-0">
-    {% include video.liquid path="https://www.youtube.com/embed/cwRVWxTv9hk" class="img-fluid rounded z-depth-1" %}
+
+<div class="row">
+    <div class="col">
+        {% include video.liquid path="https://www.youtube.com/embed/cwRVWxTv9hk" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 Mastering the Art of Composing Scientific Graphics
-<div class="col-lg mt-12 mt-lg-0">
-    {% include video.liquid path="https://www.youtube.com/embed/ubL84IKbsIM" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col">
+        {% include video.liquid path="https://www.youtube.com/embed/ubL84IKbsIM" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 
