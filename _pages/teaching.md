@@ -58,7 +58,7 @@ Check out these recordings of some of my classes, talks, and tutorials!
 Understanding Electrochemical Double Layer Capacitance Measurements
 <div class="row">
     <div class="col-12">
-        {% include video.liquid path="https://www.youtube.com/embed/cwRVWxTv9hk" %}
+        {% include video.liquid path="https://www.youtube.com/embed/cwRVWxTv9hk" height="100%" %}
     </div>
 </div>
 
