@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Please find some of my journey and ideals regarding teaching in this section.
+description: Discover my teaching philosophy and experiences in this section!
 nav: true
 nav_order: 4
 images:
@@ -12,22 +12,9 @@ images:
 > "It is the supreme art of the teacher to awaken joy in creative expression and knowledge"
 > — Albert Einstein
 
-Sharing knowledge with others has always been one of my biggest passions. However, I believe my work goes beyond being merely a teacher because I like motivating and inspiring rather than just sharing knowledge. I'm passionate about becoming a mentor, and I like to think that I am planting seeds that will eventually grow intellects larger than mine. 
+Sharing knowledge has always been a profound passion of mine, but my approach extends beyond traditional teaching. I am driven by a desire to motivate and inspire others, nurturing their potential so they can make great achievements!  
 
-I have worked as a teaching assistant and course instructor since high school. I have led lectures, laboratory sessions, and office hours, both in-person and online, including two semesters during the COVID-19 pandemic. At UT-Austin, I completed a semester-long pedagogy course (GRS 097: Fundamentals for Teaching Assistants) for graduate teaching assistants to learn strategies, including leading effective discussion sections, lesson-making strategies, and the use of active learning activities. 
-
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
-
-
-I have taught several courses, including general chemistry (UT Austin), electrochemistry (ITESM), physical chemistry (UACH), and materials science topics (ITESM). I have also assisted other teachers and mentors at UACH with analytical chemistry, quantum chemistry, and instrumental analysis. Outside academia, I have trained people in first aid, CPR, humanitarian aid, and rope rescue as a Red Cross volunteer during high school. After being involved in various topics, I have realized the importance of creating cross-disciplinary knowledge and skills in science and engineering. 
-
-I've co-designed and co-instructed two one-week intensive courses for high school and undergraduate students on electrochemical energy devices and electrochemistry as part of [Clubes de Ciencia MX](https://clubesdeciencia.mx/en/). We published the detailed course plan, handouts, and course evaluation in a publication submitted to the Journal of Chemical Education of the American Chemical Society. You can find the publication here. 
+Since high school, I have embraced roles as a teaching assistant and course instructor, leading lectures, laboratory sessions, and office hours across both in-person and virtual platforms, including during the challenging periods of the COVID-19 pandemic. At UT-Austin, I completed the semester-long pedagogy course, GRS 097: Fundamentals for Teaching Assistants, to refine my teaching strategies and incorporate active learning activities effectively. 
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -38,7 +25,9 @@ I've co-designed and co-instructed two one-week intensive courses for high schoo
 </swiper-container>
 
 
-I strongly believe in the importance of active learning, and thus I always include visual, auditory, and kinesthetic learning approaches. I am passionate about digital tools and social media, so I love making infographics, editing videos, and creating animations to explain complex concepts, especially to broader audiences. These are some graphics I've created to explain concepts in electrochemistry!
+Over the years, I've taught a diverse array of subjects, from general chemistry at UT Austin to electrochemistry at ITESM, and physical chemistry and materials science at UACH. My experience also spans assisting in courses of analytical chemistry, chemical reaction engineering, transport phenomena, and instrumental analysis. Beyond the academic realm, I've imparted skills in first aid, CPR, humanitarian aid, and rope rescue as a Red Cross volunteer. This wide variety of areas denote my interest and value of cross-disciplinary knowledge in science and engineering.
+
+My teaching methodologies adhere tostandards and guidelines for chemistry education set by the [ACS]( https://www.acs.org/education/policies.html). I also incorporate resources from the [AIChE Institute for Learning and Innovation]( https://www.aiche.org/ili/educators) to enhance STEM education. I stay informed with the latest educational strategies through journals like the [Journal of Chemical Education](https://pubs.acs.org/journal/jceda8). Furthermore, I've also co-designed and co-instructed intensive courses on electrochemical energy devices for [Clubes de Ciencia MX](https://clubesdeciencia.mx/en/). The course materials, laboratory handouts, and student assessment tools were submitted to the Journal of Chemical Education and are currently under review for publication.
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -49,20 +38,29 @@ I strongly believe in the importance of active learning, and thus I always inclu
 </swiper-container>
 
 
-I have always loved science communication. I firmly believe that communicating science is essential so that the community can understand the relevance of science in our lives, and inspire young minds (like me, when I was a teenager) to advance science.  In fact, YouTube Channels like [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA) and [Vsauce](https://www.youtube.com/@Vsauce) have been my greatest inspirations. I have my own science communication project, [Catalastic](https://www.youtube.com/@Catalastic), still a newborn, that aims to "Speed up science communication." I aim to develop this  effort during my career in collaboration with my future students. Check out these two poster pitch videos I created and posted in Catalastic!
+I strongly believe in the importance of active learning, and thus I always integrate visual, auditory, and kinesthetic elements into my teaching. I am passionate about new technologies, so I frequently employ digital tools to create engaging educational content, such as infographics, videos, and animations, aiming to reach not just students but also the general public. For example, these are some graphics I've created to explain concepts in electrochemistry!
 
-<div class="row mt-3">
-    <div class="col-md mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/LCGfn40ZSNw" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-md mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/zRLN3HdLgs0" class="img-fluid rounded z-depth-1" %}
-    </div>
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
+
+fueled by a deep passion for public speaking. I enjoy delivering interactive talks and have extensive experience creating engaging slideshows, videos, tutorials, and recording classes. Feel free to check out these recordings of some of my classes, talks, and tutorials!
+
+Understanding Electrochemical Double Layer Capacitance Measurements
+<div class="col-md mt-3 mt-md-0">
+    {% include video.liquid path="https://www.youtube.com/embed/cwRVWxTv9hk" class="img-fluid rounded z-depth-1" %}
 </div>
 
-Description of oral communication. 
+Mastering the Art of Composing Scientific Graphics
+<div class="col-md mt-3 mt-md-0">
+    {% include video.liquid path="https://www.youtube.com/embed/ubL84IKbsIM" class="img-fluid rounded z-depth-1" %}
+</div>
 
-In progress!
+
 
 
 
