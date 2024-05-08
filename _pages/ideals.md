@@ -2,14 +2,12 @@
 layout: page
 permalink: /ideals/
 title: Ideals and Values
-description: My personal ideals.
+description: My professional development is strongly shaped by ideals and values that guide my scientific pursuits.
 nav: true
 nav_order: 6
 images:
   slider: true
 ---
-
-My professional development is strongly shaped by ideals and values that guide my scientific pursuits.
 
 > "Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible."
 > — Richard P. Feynman
