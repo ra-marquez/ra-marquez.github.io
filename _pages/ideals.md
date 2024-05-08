@@ -5,7 +5,8 @@ title: Ideals and Values
 description: My personal ideals.
 nav: true
 nav_order: 6
-slider: true
+images:
+  slider: true
 ---
 
 My professional development is strongly shaped by ideals and values that guide my scientific pursuits.
