@@ -5,7 +5,7 @@ permalink: /research/
 description: Check out some of my research interests throughout my career.
 nav: true
 nav_order: 2
-display_categories: [PhD Research, MS Research, Undergraduate Research]
+display_categories: [Electrocatalysis, Methods in Electrochemistry, Sustainable Processes, Electrochemical Engineering, Batteries]
 horizontal: false
 ---
 
