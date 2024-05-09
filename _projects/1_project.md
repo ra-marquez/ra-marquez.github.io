@@ -1,12 +1,17 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Alkaline Water Electrolysis
+description: Understanding electrocatalytic reactions in realistic environments
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Electrocatalysis
 related_publications: true
 ---
+
+
+
+> A
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -20,6 +25,8 @@ To give your project a background in the portfolio page, just add the img tag to
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
+<p class="font-weight-bold">Bold text.</p>
+<p class="font-italic">Italic text.</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
