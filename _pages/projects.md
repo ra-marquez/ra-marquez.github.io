@@ -2,8 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: Check out some of my research interests throughout my career.
-nav: true
+description: My goal is to develop sustainable solutions for challenges in renewable energy, water resources, and the chemical industry. To achieve these goals, I incorporate principles of electrochemistry, catalysis, materials science, analytical chemistry, and chemical engineering into my research. This work encompasses a range of scales, from understanding catalytic interfaces at the atomic level to scaling up materials and devices.  
 nav_order: 2
 display_categories: [Electrocatalysis, Methods in Electrochemistry, Sustainable Processes, Electrochemical Engineering, Batteries]
 horizontal: false
