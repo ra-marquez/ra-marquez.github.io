@@ -18,7 +18,7 @@ Hydrogen will be critical in electrifying and decarbonizing industrial and comme
 
 <p class="font-weight-bold">Research Projects</p>
 
-I am particularly interested in understanding the chemical, structural, and electrochemical transformations of multi-metal electrode materials, focusing on dynamic processes at the electrode-electrolyte interface, such as corrosion, metal redeposition/incorporation, and self-healing mechanisms. In this study, our group explored the <span class="font-italic">in situ</span> incorporation of metal impurities into transition metal-based electrocatalysts. We found that metal incorporation is confined to the film's surface, resulting in an interstratified structure that partially retains the more active, disordered phase at the surface (Figure 1). We also showed that metal incorporation can be manipulated by shifting the solubility equilibrium.
+I am particularly interested in understanding the chemical, structural, and electrochemical transformations of multi-metal electrode materials, focusing on dynamic processes at the electrode-electrolyte interface, such as corrosion, metal redeposition/incorporation, and self-healing mechanisms. [In this study](https://doi.org/10.1039/D3EE03617K), our group explored the <span class="font-italic">in situ</span> incorporation of metal impurities into transition metal-based electrocatalysts. We found that metal incorporation is confined to the film's surface, resulting in an interstratified structure that partially retains the more active, disordered phase at the surface (Figure 1). We also showed that metal incorporation can be manipulated by shifting the solubility equilibrium.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -29,7 +29,7 @@ I am particularly interested in understanding the chemical, structural, and elec
     Figure 1. Transition metal incorporation induces structural transformations of layered nickel (oxy)hydroxides to an interstratified structure.
 </div>
 
-Furthermore, I am also interested in investigating the effects of intermittent water electrolysis on the surface composition and dissolution of transition metal-based electrocatalysts. By operating a lab-scale, zero-gap water electrolyzer under fluctuating currents, our group found that NiFe anodes exhibit a more stable response. In contrast, Ni anodes exhibit notable electrode potential fluctuations during electrolyzer shutdown (Figure 2).  
+Furthermore, I am also interested in investigating the effects of intermittent water electrolysis on the surface composition and dissolution of transition metal-based electrocatalysts. By operating a lab-scale, zero-gap water electrolyzer under fluctuating currents, [our group found](https://doi.org/10.1021/acsenergylett.3c02758) that NiFe anodes exhibit a more stable response. In contrast, Ni anodes exhibit notable electrode potential fluctuations during electrolyzer shutdown (Figure 2).  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
