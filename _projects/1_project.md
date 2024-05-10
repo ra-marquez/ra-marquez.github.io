@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alkaline Water Electrolysis
+title: Water Electrolysis
 description: Understanding electrocatalytic reactions in realistic environments
 img: assets/img/project1.png
 importance: 1
