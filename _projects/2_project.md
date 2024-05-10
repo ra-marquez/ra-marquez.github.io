@@ -1,81 +1,69 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: OER Catalysis 
+description: Studying the transformations of OER catalysts
+img: assets/img/project2.png
 importance: 2
 category: Electrocatalysis
-giscus_comments: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<p class="font-weight-bold">Motivation</p>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Electrocatalytic water splitting offers encouraging benefits for a clean and sustainable energy transition from fossil fuels. This process produces high-purity hydrogen at the cathode through the hydrogen evolution reaction (HER), while the oxygen evolution reaction (OER) occurs at the anode. The sluggish kinetics of the OER, resulting from multiple electron transfer steps and chemical intermediates, acts as a bottleneck for water splitting and dominates the overall efficiency of this technology. Electrocatalytic materials are needed to speed up the OER and make large-scale water splitting practical, abundant, efficient, and durable.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+> I aim to derive new catalyst compositions capable of delivering high OER activity while maintaining their long-term performance.
+> Since these materials undergo continuous transformations during the reaction,
+> I am particularly interested in understanding how these reconstruction processes occur and what strategies can be implemented to maximize their performance.   
+
+<p class="font-weight-bold">Research Projects</p>
+
+Transition metal borides, carbides, pnictides, and chalcogenides (collectively regarded as X-ides) have emerged as promising OER catalysts due to their abundance,  electrical conductivity, and high catalytic activity. However, these materials demonstrate various degrees of oxidation resistance due to their chemical composition, crystal structure, and morphology differences. Thus, X-ide catalysts will experience different transformations during the strong oxidizing environment of the OER. 
+
+Our group compiled an extensive database of  900+ transition metal boride, carbide, pnictide, and chalcogenide OER electrocatalysts from over 890 peer-reviewed reports published from 2013 to 2022 (<strong>Figure 1</strong>). This effort was published as a [comprehensive review](https://doi.org/10.1021/acs.chemrev.3c00005) in <span class="font-italic">Chemical Reviews</span>. We also designed a protocol for evaluating catalytic performance using in situ/operando characterization techniques.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project2.png" title="precatalyst" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Figure 1. Transition metal X-ide catalysts can be classified into one of three post-OER categories: fully oxidized, partially oxidized, or unoxidized material.
 </div>
+
+In a follow-up study, we employed statistical and machine learning methods to derive catalytic performance trends from this OER catalyst database.   
+
+Furthermore, our group has carried out experimental research on X-ide OER catalysts. [In this study](https://doi.org/10.1039/D1MA00130B), we examined the self-oxidation of nickel nitride OER catalysts and the role of Fe impurities. During OER testing, nickel nitride films were readily converted into amorphous, nano-porous NiOOH surfaces (<strong>Figure 2</strong>). A continuous increase in OER activity was observed in Fe-containing electrolytes, resulting from incorporating Fe into the NiOOH phase.  
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project2-1.png" title="nickel nitride" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Figure 2. Nickel nitride pre-catalysts transform into amorphous, nanoporous nickel oxide/(oxy)hydroxide surfaces during the OER.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Our group also synthesized and tested nickel phosphide and sulfide water-splitting electrocatalysts using 3D-printed electrochemical flow cells [in this study](https://doi.org/10.1039/D0TA12097A). From post-OER characterization, we found that the electrodeposited films underwent oxidation into amorphous NiOOH and oxidized S and P species, which dissolved into the electrolyte (<strong>Figure 3</strong>). 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project2-2.png" title="nisp" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Figure 3. Schematic of the reconstruction process occurred during the HER and OER on the NiSP electrocatalytic film.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Similarly, [our group found](https://doi.org/10.1021/acssuschemeng.0c04759) that vanadium carbide OER catalysts experience an anisotropic morphological transformation from a distorted sphere to a cuboid during the OER. In combination with DFT calculations and materials characterization, the results suggest that this morphological reconstruction occurs due to the selective dissolution of the (110) and (111) surfaces and the subsequent exposure of the relatively stable (100), (010), and (001) surfaces (<strong>Figure 4</strong>).
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project2-3.png" title="vanadium carbide" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
+<div class="caption">
+    Figure 4. Characterization of vanadium carbide OE precatalysts: (a) electron microscopy and elemental mapping images of the V8C7 particle at various cycles during OER testing. (b) Schematic of the morphological reconstruction of the V8C7 particle.
+</div>
 
-{% endraw %}
+
