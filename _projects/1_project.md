@@ -5,8 +5,10 @@ description: Understanding electrocatalytic reactions in realistic environments
 img: assets/img/project1.png
 importance: 1
 category: Electrocatalysis
-related_publications: true
+related_publications: false
 ---
+
+<p class="font-weight-bold">electrocatalytic</p>
 
 Hydrogen will be critical in electrifying and decarbonizing industrial and commercial sectors. Green hydrogen from low-temperature water electrolysis is anticipated to expand its global capacity a thousand-fold by 2030. Among various electrolysis technologies, alkaline water electrolysis (AWE) faces key challenges in improving electrocatalytic reactions, particularly the oxygen evolution reaction (OER). Conducting OER in alkaline media uses first-row transition metal oxides—nearly as efficient and stable as precious metals but more abundant and cost-effective. Despite extensive research enhancing OER catalytic activity, further exploration is needed to reveal how these materials perform under varying operational conditions.
 
