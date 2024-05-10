@@ -3,7 +3,7 @@ layout: page
 title: Sustainable Flue Gas Capture
 description: Transforming the chemical industry with sustainable electrochemistry
 img: assets/img/project7.png
-importance: 4
+importance: 1
 category: Sustainable Processes
 related_publications: false
 ---
