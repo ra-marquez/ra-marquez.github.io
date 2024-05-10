@@ -2,82 +2,36 @@
 layout: page
 title: Alkaline Water Electrolysis
 description: Understanding electrocatalytic reactions in realistic environments
-img: assets/img/12.jpg
+img: assets/img/project1.png
 importance: 1
 category: Electrocatalysis
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Hydrogen will be critical in electrifying and decarbonizing industrial and commercial sectors. Green hydrogen from low-temperature water electrolysis is anticipated to expand its global capacity a thousand-fold by 2030. Among various electrolysis technologies, alkaline water electrolysis (AWE) faces key challenges in improving electrocatalytic reactions, particularly the oxygen evolution reaction (OER). Conducting OER in alkaline media uses first-row transition metal oxides—nearly as efficient and stable as precious metals but more abundant and cost-effective. Despite extensive research enhancing OER catalytic activity, further exploration is needed to reveal how these materials perform under varying operational conditions.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+> I aim to understand how <p class="font-weight-bold">electrocatalytic interfaces</p> evolve during water-splitting reactions in <p class="font-weight-bold">realistic environments</p>. By improving our understanding of these phenomena, we can enhance the activity and stability of electrocatalytic materials. This advancement is crucial for low-temperature water electrolysis technologies to meet industrial requirements.   
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-<p class="font-weight-bold">Bold text.</p>
-<p class="font-italic">Italic text.</p>
+I am particularly interested in understanding the chemical, structural, and electrochemical transformations of multi-metal electrode materials, focusing on dynamic processes at the electrode-electrolyte interface, such as corrosion, metal redeposition/incorporation, and self-healing mechanisms. In this study, our group explored the <p class="font-italic">in situ</p> incorporation of metal impurities into transition metal-based electrocatalysts. We found that metal incorporation is confined to the film's surface, resulting in an interstratified structure that partially retains the more active, disordered phase at the surface (Figure 1). We also showed that metal incorporation can be manipulated by shifting the solubility equilibrium.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project1-1.png" title="reconstruction" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Figure 1. Transition metal incorporation induces structural transformations of layered nickel (oxy)hydroxides to an interstratified structure.
 </div>
+
+Furthermore, I am also interested in investigating the effects of intermittent water electrolysis on the surface composition and dissolution of transition metal-based electrocatalysts. By operating a lab-scale, zero-gap water electrolyzer under fluctuating currents, our group found that NiFe anodes exhibit a more stable response. In contrast, Ni anodes exhibit notable electrode potential fluctuations during electrolyzer shutdown (Figure 2).  
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project1-2.png" title="reconstruction" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Figure 2. Water electrolysis stability tests under variable current and shutdown operation: cell potential profiles for (a) Ni and (b) NiFe anodes. Open circuit potential (OCP) profiles simulating shutdown steps during cycling for (a) Ni and (b) NiFe anodes.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+We are currently studying the effects of open circuit potential steps and reverse currents on the chemical composition of multi-metal electrocatalysts.
