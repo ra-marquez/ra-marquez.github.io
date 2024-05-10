@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sulfite Electrooxidation
+title: Sulfite Electrolysis
 description: Exploring new pathways for sulfur catalysis
 img: assets/img/project3.png
 importance: 3
