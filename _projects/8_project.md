@@ -3,7 +3,7 @@ layout: page
 title: Process Design and Simulation
 description: Optimizing sustainable processes for fertilizer production 
 img: assets/img/project8.png
-importance: 3
+importance: 2
 category: Sustainable Processes
 related_publications: false
 ---
