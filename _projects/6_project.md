@@ -1,80 +1,40 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Lab-scale Water Electrolyzers
+description: Flow electrolyzers enhance reproducibility in alkaline water electrolysis
+img: assets/img/project6.jpeg
 importance: 4
-category: Electrochemical Engineering
+category: Methods in Electrochemistry
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<p class="font-weight-bold">Motivation</p>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Academic research on water electrolysis often employs three-electrode cell configurations, which do not adequately represent practical electrolyzers. The testing conditions and stability limits of electrocatalysts vary widely between laboratory and industrial environments, highlighting the need for tests under more realistic settings to fully assess component interactions and instabilities, not just those of the catalyst. Electrochemical flow cells offer a more reliable platform for such evaluations by enabling device-level testing of electrocatalysts within full-cell configurations. These cells allow for the examination of how component interactions impact overall performance, introduce new stresses, and provide a means to assess the durability of electrocatalysts at the lab scale.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+> My objective is to develop strategies to <strong>scale up</strong> electrocatalytic materials and conduct experiments under <strong>controlled, realistic conditions</strong>
+> to facilitate the commercial transition of these technologies. 
+> I also aim to establish <strong>guidelines</strong> for <strong>accurate testing</strong> under such conditions.    
+
+<p class="font-weight-bold">Research Projects</p>
+
+To enhance reproducibility and enable fair comparisons within the alkaline water electrolysis community, [we reported an electrochemical flow cell setup](https://doi.org/10.1021/acsenergylett.3c02758) designed to study electrocatalytic stability in the lab. This setup serves as an intermediate step in scaling up pathways for AWE, positioned between initial three-electrode cell testing and more complex electrolyzer setups that simulate industrial operations (<strong>Figure 1</strong>).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project6.jpeg" title="aweguide" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Figure 1. Lab-scale flow electrolyzers provide a robust platform for characterizing electrocatalytic stability, an essential step for the effective scale-up of water electrolysis technologies.
 </div>
+
+The flow electrolyzer we developed uses a zero-gap configuration to minimize ion travel distances and enhance gas discharge. It features rigid plastic flow plates that compress the electrode-separator assembly, suitable for lab-scale experiments (<strong>Figure 2</strong>). This design accommodates Ni foam (NF) electrodes, commonly used in AWE research. Further details on the design, fabrication, operation, and troubleshooting of this device can be found in our publication.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project6-1.png" title="zero-gap-cell" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Figure 2. Flow electrolyzer for lab-scale electrocatalyst testing: (a) fully assembled cell, (b) exploded-view rendering of the electrolyzer and its components, (c) electrolyzer under operation, and (d) process flow diagram of the electrolyzer setup.
 </div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
