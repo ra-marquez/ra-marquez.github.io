@@ -9,7 +9,7 @@ display_categories: [Electrocatalysis, Methods in Electrochemistry, Sustainable 
 horizontal: false
 ---
 
-My goal is to develop sustainable solutions for challenges in renewable energy, water resources, and the chemical industry. To achieve these goals, I incorporate principles of electrochemistry, catalysis, materials science, analytical chemistry, and chemical engineering into my research. This work encompasses a range of scales, from understanding catalytic interfaces at the atomic level to scaling up materials and devices (Figure 1).
+My goal is to develop sustainable solutions for challenges in renewable energy, water resources, and the chemical industry. To achieve these goals, I incorporate principles of electrochemistry, catalysis, analytical chemistry, and chemical engineering into my research. This work encompasses a range of scales, from understanding catalytic interfaces at the atomic level to chemical processes (Figure 1).
 
 <!-- pages/projects.md -->
 <div class="projects">
