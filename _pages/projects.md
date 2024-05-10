@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Research
+title: Projects
 permalink: /research/
 description: These projects represent my research interests and the focus of my career efforts.   
-nav_order: 2
+nav_order: false
 display_categories: [Electrocatalysis, Methods in Electrochemistry, Sustainable Processes, Electrochemical Engineering]
 horizontal: false
 ---
