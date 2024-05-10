@@ -3,7 +3,7 @@ layout: page
 title: Improving Bubble Evolution
 description: Tailoring electrode architectures to improve bubble evolution
 img: assets/img/project10.jpeg
-importance: 1
+importance: 2
 category: Electrochemical Engineering
 related_publications: false
 ---
