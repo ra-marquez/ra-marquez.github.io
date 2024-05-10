@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Standards in Electrocatalysis
+title: Standards and Protocols
 description: Electrocatalysis research needs standard protocols!
 img: assets/img/project4.png
 importance: 3
