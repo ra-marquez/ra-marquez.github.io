@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Research
+permalink: /research/
 description: These projects represent my research interests and the focus of my career efforts.   
-nav_order: false
+nav: true
+nav_order: 2
 display_categories: [Electrocatalysis, Methods in Electrochemistry, Sustainable Processes, Electrochemical Engineering]
 horizontal: false
 ---
