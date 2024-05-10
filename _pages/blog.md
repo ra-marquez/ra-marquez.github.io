@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /research/
-title: Research
-nav: true
-nav_order: 2
+permalink: /news/
+title: News
+nav: false
+nav_order: 8
 pagination:
   enabled: true
   collection: posts
