@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Electrochemical Flow Cells
-description: Understanding electrocatalytic reactions in realistic environments
+description: Using flow devices to advance electrochemistry
 img: assets/img/project9.jpeg
 importance: 3
-category: Using flow devices to advance electrochemistry
+category: Electrochemical Engineering
 related_publications: false
 ---
 
