@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Electrochemical Flow Cells
+title: EC Flow Cells
 description: Using flow devices to advance electrochemistry
 img: assets/img/project9.jpeg
 importance: 3
