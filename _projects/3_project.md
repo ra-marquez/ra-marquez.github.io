@@ -1,81 +1,46 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Sulfite Electrooxidation
+description: Exploring new pathways for sulfur catalysis
+img: assets/img/project3.png
 importance: 3
 category: Electrocatalysis
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<p class="font-weight-bold">Motivation</p>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Among various hydrogen production methods, thermochemical water-splitting cycles (TCWSCs) provide a promising approach for large-scale hydrogen generation. These cycles split water into hydrogen and oxygen using nuclear or solar energy (<strong>Figure 1</strong>).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project3-1.png" title="HSA cycle" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Figure 1. Schematic diagram of a Sulfur-based thermochemical water-splitting cycle.
 </div>
+
+Sulfur-based TCWSCs provide an additional advantage, using sulfur dioxide (SO2) from flue gas emissions as feedstock. A critical step in sulfur-based TCWSCs is oxidizing S(IV) species. This reaction can be done electrochemically under ambient conditions by replacing the oxygen evolution reaction (OER) in water electrolyzers. Despite its potential, this proof-of-concept reaction lacks the critical data for developing new catalysts and understanding reaction dynamics, including catalyst poisoning and corrosion. 
+
+> My research aims to develop <strong>new catalytic reactions</strong> for converting sulfur species into useful products, focusing on large-scale, industrial applications like TCWSCs.
+> I am particularly interested in revealing how <strong>multi-valent sulfur species</strong> interact with noble and earth-abundant electrocatalysts
+> and in understanding the mechanisms of <strong>catalyst deactivation</strong>. 
+
+<p class="font-weight-bold">Research Projects</p>
+
+During my undergraduate research at UACH, our group synthesized and characterized Pd catalysts for sulfite electrooxidation. Initially, [we assessed a proof-of-concept](https://doi.org/10.1016/j.ijhydene.2019.08.213) electrochemical membrane reactor's performance for sulfite ion electrooxidation at near-neutral pH. After confirming the reaction's feasibility, [we investigated](https://doi.org/10.1016/j.elecom.2019.106481) the kinetics of sulfite ion electrooxidation on Pd electrocatalysts using a rotating disk electrode under various conditions (<strong>Figure 2</strong>).
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project3-2.png" title="kineticsSO3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Figure 2. Kinetics of sulfite electrooxidation on Pd catalysts using the rotating disk electrode technique.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+We subsequently scaled the reaction to an electrolyzer level and analyzed the impact of operational conditions in another [study](https://doi.org/10.1021/acs.est.0c04190). For more details on this project, please see the Sustainable Processes category on the research page.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Looking ahead, I plan to continue my research on sulfur oxidation processes, focusing on catalysis design and characterization. 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
