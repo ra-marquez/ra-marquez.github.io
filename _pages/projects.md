@@ -17,7 +17,7 @@ My goal is to develop sustainable solutions for challenges in <strong>renewable 
     </div>
 </div>
 <div class="caption">
-    Figure 1. The length scales of my research interests span the catalytic surface to device integration and engineering.
+    Figure 1. The length scales of my research interests span from catalytic surface to device integration and engineering.
 </div>
 
 
