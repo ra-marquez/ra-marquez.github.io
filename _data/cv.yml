@@ -47,11 +47,11 @@
 - title: Selected Publications
   type: nested_list
   contents:
-    - title: Metrics from <a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a> (May 2024)
+    - title: Metrics from <a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a> (July 2024)
       items:
-        - Citations - 402
+        - Citations - 468
         - h-index - 11
-        - First-author publications - 9
+        - First-author publications - 12
         - For a complete list of publications, please visit this <a href="https://ra-marquez.github.io/publications/">page</a>.
     - title: Completed as a PhD student at UT-Austin.
       items:
@@ -137,7 +137,7 @@
         - <a href="https://conahcyt.mx/becas_posgrados/becas-al-extranjero/">International Doctoral Fellowship Program</a>, Mexican National Council of Humanities, Sciences and Technologies
     - year: 2024
       items:
-        - <a href="https://www.electrochem.org/summer-fellowships">Edward G. Weston Summer Fellowship</a>, The Electrochemical Society
+        - <a href="https://www.electrochem.org/ecsnews/2024-ecs-fink-and-summer-fellowship-recipients/">Edward G. Weston Summer Fellowship</a>, The Electrochemical Society
         - <a href="https://byers.austin.utexas.edu/">Jeff Byers Memorial Graduate Award in Chemistry and Chemical Engineering</a>, UT-Austin
         - <a href="https://www.rsc.org/our-events/rsc-poster/">RSCPoster competition 2024</a>, First place (Energy), The Royal Society of Chemistry
         - <a href="https://www.linkedin.com/posts/raulamm94_rscposter-rscposterpitch-rscenergy-activity-7170796574682275843-MIzJ/">RSCPosterPitch award 2024</a>, Best poster pitch video, The Royal Society of Chemistry
@@ -183,6 +183,9 @@
 - title: Oral Presentations
   type: time_table
   contents:
+    - title: 245th ECS meeting, San Francisco, California  
+      year: May 2024
+      description: Dynamic Activity and Stability of Transition Metal (oxy)Hydroxide Oxygen Evolution Electrocatalysts Under Steady and Intermittent Operation
     - title: 244th ECS meeting, Gothenburg, Sweden   
       year: Oct 2023
       description: Understanding the Effects of Transition Metal Impurities on Nickel (oxy)hydroxide Electrocatalysts in Alkaline Media
@@ -223,6 +226,9 @@
 - title: Poster Presentations
   type: time_table
   contents:
+    - title: 245th ECS meeting, San Francisco, California   
+      year: May 2024
+      description: A Guide to Electrocatalyst Stability Using Lab-Scale Alkaline Water Electrolyzers. 
     - title: RSCPoster competition, LinkedIn
       year: Mar 2024
       description: 
