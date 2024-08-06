@@ -69,62 +69,7 @@
       items:
         - Marquez-Montes, R.A., et al. Optimization of the electrooxidation of aqueous ammonium sulfite for hydrogen production at near-neutral pH using response surface methodology. International Journal of Hydrogen Energy, 2020, 45, 27, 13821-13831. <a href="https://doi.org/10.1016/j.ijhydene.2019.08.213">Link</a>
 
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: Graduate Research Assistant
-      institution: The University of Texas at Austin, Mullins Research Group
-      year: 2020-Now
-      description:
-        - Photoelectrochemistry subgroup - Alkaline Water Electrolysis Research.
-        - title: Understanding electrocatalytic stability during alkaline water electrolysis
-          contents:
-            - Investigated the effects of intermittent water electrolysis on the surface composition and dissolution of transition metal-based electrocatalysts.
-            - Studied the chemical, structural, and electrochemical performance effects of the in situ incorporation of metal impurities into transition metal-based electrocatalysts. 
-            - Developed protocols to test electrocatalyst stability using lab-scale alkaline water electrolyzers.
-            - Developed protocols to purify and determine trace metal impurities in alkaline electrolytes using inductively coupled plasma mass spectrometry and electrochemical methods.
-            - Development of automated potentiostat sequences for examining electrocatalytic performance.
-            - Electrodeposition of electrocatalysts with thin film architecture.
-        - title: Electrocatalytic performance of earth-abundant catalysts for water splitting
-          contents:
-            - Assisted in writing and editing a comprehensive review on transition metal boride, carbide, pnictide, and chalcogenide water oxidation electrocatalysts from over 890 peer-reviewed reports published from 2013 to 2022. Compiled a database of  900+ catalysts and designed a protocol for evaluating catalytic performance using in situ and operando characterization techniques.
-            - Employed statistical and machine learning methods to derive catalytic performance trends from experimental databases of water oxidation electrocatalysts.
-            - Extensive use of physical, chemical, and electrochemical characterization techniques.
-            - Synthesized and tested Ni-based pnictide and chalcogenide water-splitting electrocatalysts using 3D-printed electrochemical flow cells.
-        - title: Electrochemical engineering and device prototyping
-          contents:
-            - Designed and built 12+ custom electrochemical cells for electrocatalyst testing, zero-gap water electrolysis, flow electrodeposition, real-time bubble visualization, and in situ Raman spectroscopy.
-            - Implemented laboratory automation strategies for high-throughput catalyst electrodeposition. 
-            - Studied the impact of electrode architecture on bubble removal during water electrolysis via 3D printing.
-        - title: Electrochemistry education
-          contents:
-            - Developed a comprehensive educational workshop for teaching concepts of electrochemical energy devices to high school and undergraduate students using active learning strategies.
-        - title: Other collaborations
-          contents:
-            - Collaborated with Mexican researchers to use SU-101 MOF materials as cathodes in lithium-sulfur batteries.
-            - Developed protocols for calibrating reference electrodes and effectively implementing iR compensation.
-    - title: Visiting Scholar
-      institution: The University of Texas at Austin, Mullins Research Group
-      year: Fall 2019
-      description:
-        - Characterized Pd and Ni catalysts deposited on Ni foam substrates for sulfite electrooxidation.
-        - Synthesized and tested nickel nitride and vanadium carbide water-splitting electrocatalysts.
-    - title: Graduate Research Assistant
-      institution: Universidad Autonoma de Chihuahua, Ramos Research Group
-      year: 2018 - 2020
-      description:
-        - Designed and optimized an electrochemical flow reactor for sulfite ion electrooxidation and high-purity hydrogen production using simulated flue gas emissions.
-        - Designed and built 6+ electrochemical flow cells using affordable 3D printing materials.
-        - Investigated the hydrodynamics, flow distribution, and mass transfer of electrochemical flow cells using COMSOL Multiphysics simulations, tracer injection tests, and dimensional analysis.
-        - Studied the kinetics of sulfite ion electrooxidation on Pd electrocatalysts using a rotating disk electrode.
-    - title: Undergraduate Research Assistant
-      institution: Universidad Autonoma de Chihuahua, Ramos Research Group
-      year: 2015 - 2017
-      description:
-        - Evaluated the performance of an electrochemical membrane reactor for the electrooxidation of sulfite ions using a design of experiments approach.
-        - Assisted in the simulation and optimization of a flue gas desulfurization plant incorporating a photochemical step to convert SO2 into hydrogen and ammonium-based fertilizers.
-
-- title: Honors and Awards
+- title: Awards and Recognition
   type: time_table
   contents:
     - year: 2020-now
@@ -171,6 +116,39 @@
     - year: 2016
       items:
         - Oral Presentation Contest (First place), Mexican National Council of Humanities, Sciences and Technologies
+
+- title: Funding / Grants
+  type: time_table
+  contents:
+    - title: International Doctoral Fellowship Program, CONAHCyT / ConTex  
+      year: 2021-2025
+      items:
+        - (Proposal) 3D printing Approaches for Electrochemical Water Splitting - Incorporating Advanced Features into Educational Water Electrolysis Technologies
+        - Graduate Research Fellowship | US$132,000 for over four years
+    - title: Provost’s Graduate Excellence Fellowship, The University of Texas at Austin  
+      year: 2020-2025
+      items:
+        - Graduate Research Fellowship | US$130,000 for over five years (in addition to teaching and research assistantships)
+        - Research allowance (US$2,000 per year) for professional travel and research-related expenditures.
+    - title: Edward G. Weston Summer Fellowship, The Electrochemical Society  
+      year: May 2024
+      items:
+        - (Proposal) Understanding the Effects of Intermittent Water Electrolysis on Transition Metal (Oxy)hydroxide Oxygen Evolution Electrocatalysts
+        - Research Fellowship | US$5,000 
+
+- title: Travel Awards
+  type: time_table
+  contents:
+    - title: CATL-ChemCatBio Graduate Student Travel Award, The American Chemical Society  
+      year: Aug 2024
+    - title: Professional Development Travel Award, Chemistry Department, UT-Austin  
+      year: Aug 2024
+    - title: Center for Electrochemistry Travel Grant, Center for Electrochemistry at UT-Austin	  
+      year: May 2024
+    - title: ECS Texas Section Travel Award (244th ECS Meeting), The Electrochemical Society	  
+      year: Oct 2023
+    - title: ECS Texas Section Travel Award (243rd ECS Meeting)	  
+      year: May 2023
 
 - title: Certifications
   type: time_table
@@ -299,6 +277,61 @@
       institution: Mexican Youth Red Cross
       year: 2009 - 2013
 
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Graduate Research Assistant
+      institution: The University of Texas at Austin, Mullins Research Group
+      year: 2020-Now
+      description:
+        - Photoelectrochemistry subgroup - Alkaline Water Electrolysis Research.
+        - title: Understanding electrocatalytic stability during alkaline water electrolysis
+          contents:
+            - Investigated the effects of intermittent water electrolysis on the surface composition and dissolution of transition metal-based electrocatalysts.
+            - Studied the chemical, structural, and electrochemical performance effects of the in situ incorporation of metal impurities into transition metal-based electrocatalysts. 
+            - Developed protocols to test electrocatalyst stability using lab-scale alkaline water electrolyzers.
+            - Developed protocols to purify and determine trace metal impurities in alkaline electrolytes using inductively coupled plasma mass spectrometry and electrochemical methods.
+            - Development of automated potentiostat sequences for examining electrocatalytic performance.
+            - Electrodeposition of electrocatalysts with thin film architecture.
+        - title: Electrocatalytic performance of earth-abundant catalysts for water splitting
+          contents:
+            - Assisted in writing and editing a comprehensive review on transition metal boride, carbide, pnictide, and chalcogenide water oxidation electrocatalysts from over 890 peer-reviewed reports published from 2013 to 2022. Compiled a database of  900+ catalysts and designed a protocol for evaluating catalytic performance using in situ and operando characterization techniques.
+            - Employed statistical and machine learning methods to derive catalytic performance trends from experimental databases of water oxidation electrocatalysts.
+            - Extensive use of physical, chemical, and electrochemical characterization techniques.
+            - Synthesized and tested Ni-based pnictide and chalcogenide water-splitting electrocatalysts using 3D-printed electrochemical flow cells.
+        - title: Electrochemical engineering and device prototyping
+          contents:
+            - Designed and built 12+ custom electrochemical cells for electrocatalyst testing, zero-gap water electrolysis, flow electrodeposition, real-time bubble visualization, and in situ Raman spectroscopy.
+            - Implemented laboratory automation strategies for high-throughput catalyst electrodeposition. 
+            - Studied the impact of electrode architecture on bubble removal during water electrolysis via 3D printing.
+        - title: Electrochemistry education
+          contents:
+            - Developed a comprehensive educational workshop for teaching concepts of electrochemical energy devices to high school and undergraduate students using active learning strategies.
+        - title: Other collaborations
+          contents:
+            - Collaborated with Mexican researchers to use SU-101 MOF materials as cathodes in lithium-sulfur batteries.
+            - Developed protocols for calibrating reference electrodes and effectively implementing iR compensation.
+    - title: Visiting Scholar
+      institution: The University of Texas at Austin, Mullins Research Group
+      year: Fall 2019
+      description:
+        - Characterized Pd and Ni catalysts deposited on Ni foam substrates for sulfite electrooxidation.
+        - Synthesized and tested nickel nitride and vanadium carbide water-splitting electrocatalysts.
+    - title: Graduate Research Assistant
+      institution: Universidad Autonoma de Chihuahua, Ramos Research Group
+      year: 2018 - 2020
+      description:
+        - Designed and optimized an electrochemical flow reactor for sulfite ion electrooxidation and high-purity hydrogen production using simulated flue gas emissions.
+        - Designed and built 6+ electrochemical flow cells using affordable 3D printing materials.
+        - Investigated the hydrodynamics, flow distribution, and mass transfer of electrochemical flow cells using COMSOL Multiphysics simulations, tracer injection tests, and dimensional analysis.
+        - Studied the kinetics of sulfite ion electrooxidation on Pd electrocatalysts using a rotating disk electrode.
+    - title: Undergraduate Research Assistant
+      institution: Universidad Autonoma de Chihuahua, Ramos Research Group
+      year: 2015 - 2017
+      description:
+        - Evaluated the performance of an electrochemical membrane reactor for the electrooxidation of sulfite ions using a design of experiments approach.
+        - Assisted in the simulation and optimization of a flue gas desulfurization plant incorporating a photochemical step to convert SO2 into hydrogen and ammonium-based fertilizers.
+
 - title: Work/Teaching Experience
   type: time_table
   contents:
@@ -307,7 +340,7 @@
       year: 2020 - 2021
       description:
         - Taught Introduction to Chemical Practice, CH 204, in Fall 2020 and Spring 2021.
-        - Responsibilities included guiding students through introductory chemistry experiments, grading reports, leading online and laboratory sessions, preparing lectures, and holding office hours.
+        - Responsibilities include guiding students through introductory chemistry experiments, grading reports, leading online and laboratory sessions, preparing lectures, and holding office hours.
         - Received two teaching awards from UT-Austin
         #- title: Description 3.
          # contents:
