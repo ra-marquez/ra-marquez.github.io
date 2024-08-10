@@ -47,7 +47,7 @@
 - title: Selected Publications
   type: nested_list
   contents:
-    - title: Metrics from <a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a> (July 2024)
+    - title: Metrics from <a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a> (August 2024)
       items:
         - Refereed Publications - 24
         - First-author publications - 12
@@ -125,7 +125,7 @@
       institution: Materials Horizons, Journal of the Electrochemical Society, International Journal of Hydrogen Energy.
       year: 2023-now
     - title: Community Board Member 
-      institution: Materials Horizons Journal, The Royal Society of Chemistry  
+      institution: Materials Horizons Journal, The Royal Society of Chemistry.  
       year: 2023-now
     - title: International Ambassador
       institution: Clubes de Ciencia MX 
@@ -135,15 +135,15 @@
       year: 2023-now
     - title: Young Leader
       institution: Mexican Youth Red Cross
-      year: 2009 - 2013
+      year: 2009-2013
     - title: Memberships
-      institution: Royal Society of Chemistry, American Chemical Society, American Institute of Chemical Engineers, Electrochemical Society, Mexican Hydrogen Society
+      institution: Royal Society of Chemistry, American Chemical Society, American Institute of Chemical Engineers, Electrochemical Society, Mexican Hydrogen Society.
       year: 2022-now
 
 - title: Funding / Grants
   type: time_table
   contents:
-    - title: International Doctoral Fellowship Program, CONAHCyT / University of Texas System  
+    - title: International Doctoral Fellowship Program, CONAHCyT and University of Texas System  
       year: 2021-2025
       items:
         - (Proposal) 3D printing Approaches for Electrochemical Water Splitting - Incorporating Advanced Features into Water Electrolysis Technologies
@@ -273,7 +273,6 @@
             - Developed protocols to test electrocatalyst stability and purify alkaline electrolytes.
             - Authored a comprehensive review on water oxidation catalysis from over 890 peer-reviewed reports.
             - Employed statistical and machine learning methods to analyze catalyst databases. 
-
         - title: Electrochemical engineering and rapid prototyping 
           contents:
             - Designed and built 12+ custom electrochemical cells for in situ and operando characterization.
@@ -301,7 +300,7 @@
       year: 2015 - 2017
       description:
         - Formulated a proof-of-concept process for sulfite electrooxidation. 
-        - Simulated a flue gas desulfurization plant to capture sulfur dioxide
+        - Simulated a flue gas desulfurization plant to capture sulfur dioxide.
 
 - title: Work/Teaching Experience
   type: time_table
@@ -344,9 +343,9 @@
     - title: Clubes de Ciencia Mx
       year: 2023-now
       description: 
-        - Served as international ambassador in a U.S. institution.
+        - Served as an international ambassador.
         - Reviewed 80+ proposals of instructors and participants for summer workshops. 
-        - Shared information about the summer workshops at national and international conferences
+        - Shared information about the summer workshops at national and international conferences.
     - title: UT-Austin ECS Student Chapter
       year: 2023-now
       description: 
@@ -395,16 +394,16 @@
     - title: <a href="https://www.youtube.com/@Catalastic">Catalastic!</a> YouTube Channel 
       year: 2023-Now
       description: 
-        - Created a channel to promote science communication through social media. 
+        - Created a YouTube channel to promote science communication through social media. 
     - title: Bright Spikes! Electrifying Chemical Reactions 
       year: 2023
       description: 
-        - Taught a workshop on electrochemical devices to 15+ high school and undergraduate students. 
+        - Taught a workshop on electrochemical devices to 15+ undergraduate students. 
         - <a href="https://clubesdeciencia.mx/clubes-2023/">Link</a> to the CdeCMx 2023 Edition
     - title: Electrochemistry - How Do We Transport Energy?  
       year: 2022
       description: 
-        - Taught a workshop on electrochemical devices to 20+ high school and undergraduate students. 
+        - Taught a workshop on electrochemical devices to 20+ undergraduate students. 
         - <a href="https://clubesdeciencia.mx/clubes22/">Link</a> to the CdeCMx 2022 Edition
     - title: Quantum Chemistry for Kids 
       year: 2019
