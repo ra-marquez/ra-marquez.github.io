@@ -49,9 +49,10 @@
   contents:
     - title: Metrics from <a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a> (July 2024)
       items:
-        - Citations - 489
-        - h-index - 11
+        - Refereed Publications - 24
         - First-author publications - 12
+        - Citations - 498
+        - H-index - 11
         - For a complete list of publications, please visit this <a href="https://ra-marquez.github.io/publications/">page</a>.
     - title: Completed as a PhD student at UT-Austin.
       items:
@@ -65,7 +66,7 @@
       items:
         - Marquez-Montes, R.A., et al. Simultaneous sulfite electrolysis and hydrogen production using Ni foam-based three-dimensional electrodes. Environmental Science & Technology, 2020, 54, 19, 12511-12520. <a href="https://doi.org/10.1021/acs.est.0c04190">Link</a> 
         - Marquez-Montes, R.A., et al. Electrochemical engineering assessment of a novel 3D-printed filter-press electrochemical reactor for multipurpose laboratory applications. ACS Sustainable Chemistry & Engineering, 2020, 8, 9, 3896-3905.<a href="https://doi.org/10.1021/acssuschemeng.9b07368">Link</a> 
-    - title: Completed as a BE Student at UACH.
+    - title: Completed as a BS Student at UACH.
       items:
         - Marquez-Montes, R.A., et al. Optimization of the electrooxidation of aqueous ammonium sulfite for hydrogen production at near-neutral pH using response surface methodology. International Journal of Hydrogen Energy, 2020, 45, 27, 13821-13831. <a href="https://doi.org/10.1016/j.ijhydene.2019.08.213">Link</a>
 
@@ -80,7 +81,7 @@
         - Maddin Endowed Scholarship in Chemistry, UT-Austin
     - year: 2021-now
       items:
-        - <a href="https://conahcyt.mx/becas_posgrados/becas-al-extranjero/">International Doctoral Fellowship Program</a>, Mexican National Council of Humanities, Sciences and Technologies
+        - <a href="https://conahcyt.mx/becas_posgrados/becas-al-extranjero/">International Doctoral Fellowship</a>, Mexican National Council of Humanities, Sciences and Technologies (CONAHCyT) / University of Texas System
     - year: 2024
       items:
         - <a href="https://www.electrochem.org/ecsnews/2024-ecs-fink-and-summer-fellowship-recipients/">Edward G. Weston Summer Fellowship</a>, The Electrochemical Society
@@ -117,13 +118,34 @@
       items:
         - Oral Presentation Contest (First place), Mexican National Council of Humanities, Sciences and Technologies
 
+- title: Professional Activities and Affiliations  
+  type: time_table
+  contents:
+    - title: Peer Reviewer
+      institution: Materials Horizons, Journal of the Electrochemical Society, International Journal of Hydrogen Energy.
+      year: 2023-now
+    - title: Community Board Member 
+      institution: Materials Horizons Journal, The Royal Society of Chemistry  
+      year: 2023-now
+    - title: International Ambassador
+      institution: Clubes de Ciencia MX 
+      year: 2023-now
+    - title: Secretary
+      institution: UT-Austin ECS Student Chapter
+      year: 2023-now
+    - title: Young Leader
+      institution: Mexican Youth Red Cross
+      year: 2009 - 2013
+    - title: Memberships
+      institution: Royal Society of Chemistry, American Chemical Society, American Institute of Chemical Engineers, Electrochemical Society, Mexican Hydrogen Society
+
 - title: Funding / Grants
   type: time_table
   contents:
-    - title: International Doctoral Fellowship Program, CONAHCyT / ConTex  
+    - title: International Doctoral Fellowship Program, CONAHCyT / University of Texas System  
       year: 2021-2025
       items:
-        - (Proposal) 3D printing Approaches for Electrochemical Water Splitting - Incorporating Advanced Features into Educational Water Electrolysis Technologies
+        - (Proposal) 3D printing Approaches for Electrochemical Water Splitting - Incorporating Advanced Features into Water Electrolysis Technologies
         - Graduate Research Fellowship | US$132,000 for over four years
     - title: Provost’s Graduate Excellence Fellowship, The University of Texas at Austin  
       year: 2020-2025
@@ -150,20 +172,10 @@
     - title: ECS Texas Section Travel Award (243rd ECS Meeting)	  
       year: May 2023
 
-- title: Certifications
-  type: time_table
-  contents:
-    - year: 2023
-      items:
-        - <a href="https://accreditations.ioppublishing.org/ec759a9d-79e3-4787-b985-c8614120207f#gs.8palul">IOP Peer Review Excellence</a>, IOP Publishing
-    - year: 2020
-      items:
-        - Responsible Conduct of Research, CITI Program
-
 - title: Oral Presentations
   type: time_table
   contents:
-    - title: 245th ECS meeting, San Francisco, California  
+    - title: 245th ECS meeting, San Francisco, CA  
       year: May 2024
       description: Dynamic Activity and Stability of Transition Metal (oxy)Hydroxide Oxygen Evolution Electrocatalysts Under Steady and Intermittent Operation
     - title: 244th ECS meeting, Gothenburg, Sweden   
@@ -206,7 +218,7 @@
 - title: Poster Presentations
   type: time_table
   contents:
-    - title: 245th ECS meeting, San Francisco, California   
+    - title: 245th ECS meeting, San Francisco, CA   
       year: May 2024
       description: A Guide to Electrocatalyst Stability Using Lab-Scale Alkaline Water Electrolyzers. 
     - title: RSCPoster competition, LinkedIn
@@ -214,12 +226,12 @@
       description: 
         - (Online) Trace Metal Incorporation Through In Situ Cation Exchange - Effects on Energy Conversion and Storage Properties. 
         - Energy category award (First place) and best RSCPosterPitch award. 
-    - title: 243rd ECS meeting with SOFC-XVIII, Boston, Massachusetts   
+    - title: 243rd ECS meeting with SOFC-XVIII, Boston, MA   
       year: May 2023
       description: 
         - Six Practices to Improve Alkaline Electrolyte Preparation. 
         - General Student Poster Session award (First place). 
-    - title: CEC Annual Workshop on Electrochemistry, UT-Austin, Austin, Texas
+    - title: CEC Annual Workshop on Electrochemistry, UT-Austin, Austin, TX
       year: Feb 2023
       description: Six Steps to Prepare Alkaline Electrolytes for Electrochemical Applications
     - title: LatinXChem 2022 Virtual Poster Session, LatinXChem, Twitter
@@ -246,37 +258,6 @@
       year: Apr 2016
       description: Design of an Ion-Exchange Membrane Electrochemical Reactor for Hydrogen Production via the S-NH3 Cycle 
 
-- title: Memberships and Affiliations 
-  type: time_table
-  contents:
-    - title: Community Board Member 
-      institution: Materials Horizons Journal, The Royal Society of Chemistry  
-      year: 2023-now
-    - title: Secretary
-      institution: UT-Austin ECS Student Chapter
-      year: 2023-now
-    - title: Member
-      institution: The Royal Society of Chemistry
-      year: 2023-now
-    - title: Member
-      institution: The American Institute of Chemical Engineers   
-      year: 2023-now
-    - title: Member
-      institution: The Electrochemical Society	
-      year: 2022-now
-    - title: Member
-      institution: Mexican Hydrogen Society 	
-      year: 2022-now
-    - title: International Instructor and Ambassador
-      institution: Clubes de Ciencia MX
-      year: 2022-now
-    - title: Member
-      institution: American Chemical Society 	
-      year: 2021-now
-    - title: Young Leader
-      institution: Mexican Youth Red Cross
-      year: 2009 - 2013
-
 - title: Research Experience
   type: time_table
   contents:
@@ -284,111 +265,159 @@
       institution: The University of Texas at Austin, Mullins Research Group
       year: 2020-Now
       description:
-        - Photoelectrochemistry subgroup - Alkaline Water Electrolysis Research.
-        - title: Understanding electrocatalytic stability during alkaline water electrolysis
+        - title: Liquid alkaline water electrolysis
           contents:
-            - Investigated the effects of intermittent water electrolysis on the surface composition and dissolution of transition metal-based electrocatalysts.
-            - Studied the chemical, structural, and electrochemical performance effects of the in situ incorporation of metal impurities into transition metal-based electrocatalysts. 
-            - Developed protocols to test electrocatalyst stability using lab-scale alkaline water electrolyzers.
-            - Developed protocols to purify and determine trace metal impurities in alkaline electrolytes using inductively coupled plasma mass spectrometry and electrochemical methods.
-            - Development of automated potentiostat sequences for examining electrocatalytic performance.
-            - Electrodeposition of electrocatalysts with thin film architecture.
-        - title: Electrocatalytic performance of earth-abundant catalysts for water splitting
+            - Investigated the effects of intermittent water electrolysis on catalytic stability. 
+            - Studied the effects of metal impurity incorporation into water oxidation catalysts.  
+            - Developed protocols to test electrocatalyst stability and purify alkaline electrolytes.
+            - Authored a comprehensive review on water oxidation catalysis from over 890 peer-reviewed reports.
+            - Employed statistical and machine learning methods to analyze catalyst databases. 
+
+        - title: Electrochemical engineering and rapid prototyping 
           contents:
-            - Assisted in writing and editing a comprehensive review on transition metal boride, carbide, pnictide, and chalcogenide water oxidation electrocatalysts from over 890 peer-reviewed reports published from 2013 to 2022. Compiled a database of  900+ catalysts and designed a protocol for evaluating catalytic performance using in situ and operando characterization techniques.
-            - Employed statistical and machine learning methods to derive catalytic performance trends from experimental databases of water oxidation electrocatalysts.
-            - Extensive use of physical, chemical, and electrochemical characterization techniques.
-            - Synthesized and tested Ni-based pnictide and chalcogenide water-splitting electrocatalysts using 3D-printed electrochemical flow cells.
-        - title: Electrochemical engineering and device prototyping
-          contents:
-            - Designed and built 12+ custom electrochemical cells for electrocatalyst testing, zero-gap water electrolysis, flow electrodeposition, real-time bubble visualization, and in situ Raman spectroscopy.
-            - Implemented laboratory automation strategies for high-throughput catalyst electrodeposition. 
-            - Studied the impact of electrode architecture on bubble removal during water electrolysis via 3D printing.
-        - title: Electrochemistry education
-          contents:
-            - Developed a comprehensive educational workshop for teaching concepts of electrochemical energy devices to high school and undergraduate students using active learning strategies.
+            - Designed and built 12+ custom electrochemical cells for in situ and operando characterization.
+            - Implemented flexible automation to accelerate the electrodeposition of catalytic thin films. 
+            - Studied the impact of electrode architecture on bubble growth and detachment.
         - title: Other collaborations
           contents:
-            - Collaborated with Mexican researchers to use SU-101 MOF materials as cathodes in lithium-sulfur batteries.
-            - Developed protocols for calibrating reference electrodes and effectively implementing iR compensation.
+            - Collaborated with Mexican researchers to use SU-101 MOFs in lithium-sulfur batteries.
     - title: Visiting Scholar
       institution: The University of Texas at Austin, Mullins Research Group
       year: Fall 2019
       description:
-        - Characterized Pd and Ni catalysts deposited on Ni foam substrates for sulfite electrooxidation.
-        - Synthesized and tested nickel nitride and vanadium carbide water-splitting electrocatalysts.
+        - Characterized Pd and Ni catalysts for sulfite electrooxidation. 
+        - Synthesized transition metal nitride water-splitting electrocatalysts. 
     - title: Graduate Research Assistant
       institution: Universidad Autonoma de Chihuahua, Ramos Research Group
       year: 2018 - 2020
       description:
-        - Designed and optimized an electrochemical flow reactor for sulfite ion electrooxidation and high-purity hydrogen production using simulated flue gas emissions.
-        - Designed and built 6+ electrochemical flow cells using affordable 3D printing materials.
-        - Investigated the hydrodynamics, flow distribution, and mass transfer of electrochemical flow cells using COMSOL Multiphysics simulations, tracer injection tests, and dimensional analysis.
-        - Studied the kinetics of sulfite ion electrooxidation on Pd electrocatalysts using a rotating disk electrode.
+        - Designed an electrochemical flow cell for sulfite electrooxidation.
+        - Designed and built 6+ flow cells using 3D printing.
+        - Investigated the hydrodynamics and mass transfer of electrochemical flow cells. 
+        - Studied the kinetics of sulfite ion electrooxidation on Pd electrocatalysts. 
     - title: Undergraduate Research Assistant
       institution: Universidad Autonoma de Chihuahua, Ramos Research Group
       year: 2015 - 2017
       description:
-        - Evaluated the performance of an electrochemical membrane reactor for the electrooxidation of sulfite ions using a design of experiments approach.
-        - Assisted in the simulation and optimization of a flue gas desulfurization plant incorporating a photochemical step to convert SO2 into hydrogen and ammonium-based fertilizers.
+        - Formulated a proof-of-concept process for sulfite electrooxidation. 
+        - Simulated a flue gas desulfurization plant to capture sulfur dioxide
 
 - title: Work/Teaching Experience
   type: time_table
   contents:
+    - title: International Instructor
+      institution: Clubes de Ciencia Mx
+      year: 2022 - 2023
+      description:
+        - Designed and taught two workshops on electrochemical energy devices to undergraduate students.
+        - Assessed the effectiveness of the course and published the results in a referred educational article. 
+        #- title: Description 3.
+         # contents:
+            #- Sub-description 1.
+            #- Sub-description 2.  
     - title: Graduate Teaching Assistant
       institution: The University of Texas at Austin
       year: 2020 - 2021
       description:
-        - Taught Introduction to Chemical Practice, CH 204, in Fall 2020 and Spring 2021.
-        - Responsibilities include guiding students through introductory chemistry experiments, grading reports, leading online and laboratory sessions, preparing lectures, and holding office hours.
-        - Received two teaching awards from UT-Austin
-        #- title: Description 3.
-         # contents:
-            #- Sub-description 1.
-            #- Sub-description 2.        
+        - Taught Introduction to Chemical Practice for Fall and Spring semesters.
+        - Received two teaching awards from UT-Austin.
+    - title: GRS 097 Fundamentals for Teaching Assistants
+      institution: The University of Texas at Austin
+      year: 2020
+      description:
+        - Completed a semester-long pedagogy course for graduate teaching assistants. 
     - title: Research Assistant
       institution: Universidad Autonoma de Chihuahua
       year: 2017 - 2018
       description:
-        - Hired by Prof. Victor H. Ramos-Sanchez for a one-year position as a research assistant to conduct corrosion tests and passivation experiments on stainless steel in collaboration with KAT Aerospace and the Advanced Materials Research Center in Chihuahua, Mexico.
+        - Developed corrosion tests and passivation experiments on stainless steel.
     - title: Undergraduate Teaching Assistant
       institution: Universidad Autonoma de Chihuahua
       year: 2017 - 2018
       description:
-        - Assisted Prof. Victor H. Ramos-Sanchez in teaching undergraduate Physical Chemistry and graduate Instrumental Analysis courses for two semesters. Responsibilities included leading physical chemistry laboratory sessions, holding office hours, and grading coursework, presentations, exams, and final projects.
-        - Assisted in the development of 6+ laboratory experiments and lectures.
+        - Taught undergraduate Physical Chemistry and graduate Instrumental Analysis courses.
 
 - title: Volunteering
   type: time_table
   contents:
+    - title: Clubes de Ciencia Mx
+      year: 2023-now
+      description: 
+        - Served as international ambassador in a U.S. institution.
+        - Reviewed 80+ proposals of instructors and participants for summer workshops. 
+        - Shared information about the summer workshops at national and international conferences
     - title: UT-Austin ECS Student Chapter
       year: 2023-now
       description: 
-        - Served as the secretary of the Electrochemical Society student chapter at UT-Austin.
-        - Started a series of Chalk Talks in electrochemistry for the local ECS Student Chapter.
-        - Developed an official website and managed social media accounts.
-        - Served as the photographer for academic and outreach activities.
-        - Recorded and edited seminar recordings for posting on the YouTube channel of the chapter.
-        - Coordinated social events and one academic seminar for the regional Texas ECS Section.
-        - Created the official <a href="https://sites.utexas.edu/ecs/">Website</a>
+        - Served as the secretary of the ECS student chapter at UT-Austin.
+        - Started a series of Chalk Talks in electrochemistry.
+        - Created the official <a href="https://sites.utexas.edu/ecs/">Website</a> and managed all the social media accounts. 
+        - Served as photographer for academic and outreach activities. 
+        - Recorded, edited, and posted seminar recordings on the official YouTube channel. 
+        - Coordinated social events and academic seminars. 
     - title: Department of Chemistry, UT-Austin
       year: 2021-now
       description: 
         - Assisted the Department of Chemistry as a graduate recruiter and student host. 
-        - Hosted eight visiting students and served as staff during recruitment events.
-        - Held six seminars at the top five national universities in Mexico, explaining the application process for the Fall 2023 period, and engaged with over 30 students through both face-to-face and online conversations.
-        - Guided seven students through their application process.
-        - Held ten Zoom sessions to help four prospective international students enhance their English skills and prepare for the TOEFL and IELTS exams.
-        - Received two service awards from the Chemistry Department.
-    - title: Mexican Youth Red Cross at Chihuahua
+        - Hosted eight visiting students and served as staff during recruitment events. 
+        - Delivered six recruiting seminars at the top five national universities in Mexico.
+        - Mentored 10+ applicants and offered 40+ hours of practice sessions for the TOEFL and IELTS exams. 
+    - title: Mexican Red Cross 
       year: 2009 - 2013
       description: 
-        - Served as a part-time Mexican Youth Red Cross volunteer, a nonprofit and charity association.
-        - Worked as a Young Leader of the Health and Life Protection branch at the Mexican Youth Red Cross office in Chihuahua, impacting over 120 people in need.
-        - Received training in first-aid, CPR, advanced burn life support, humanitarian aid, disaster relief, health and safety campaigns, sexual education, and sport promotion activities.
-        - Participated in over 40 community service and humanitarian relief activities and three major disaster operations (earthquakes and snowstorms).
-        - Received rope rescue training and became an instructor.
-        - Co-author of a comprehensive handbook on rope rescue for the Mexican Youth Red Cross.
+        - Served as a part-time volunteer in a nonprofit and charity association.
+        - Received training in first-aid, humanitarian aid, and rope rescue.
+        - Participated in 40+ community service activities and three major disaster operations.
+
+- title: Entrepreneurial Activities 
+  type: time_table
+  contents:
+    - title: VirtAgro 
+      year: 2021
+      description: 
+        - Mentored the developers of an intelligent sprinkler system controlled by a smartphone app.
+    - title: Entrepreneurship, From Ideas to Businesses, UNAM/Santander
+      year: 2019
+      description: 
+        - Received training in finances, customers, marketing, human resources, and business model canvas.  
+    - title: Entrepreneur Leader, H24U
+      year: 2019
+      description: 
+        -	Developed an electrochemical system for ultra-pure hydrogen generation (H24U).
+        - Received training from the <a href="https://new.nsf.gov/funding/initiatives/i-corps">NSF I-Corps program</a>.
+        - Interviewed 130+ potential customers and created a business model canvas. 
+        - <a href="https://www.youtube.com/watch?v=FT6OlMGNJ5M">Video of the project (Spanish)</a>
+
+- title: Science Communication 
+  type: time_table
+  contents:
+    - title: <a href="https://www.youtube.com/@Catalastic">Catalastic!</a> YouTube Channel 
+      year: 2023-Now
+      description: 
+        - Created a channel to promote science communication through social media. 
+    - title: Bright Spikes! Electrifying Chemical Reactions 
+      year: 2023
+      description: 
+        - Taught a workshop on electrochemical devices to 15+ high school and undergraduate students. 
+        - <a href="https://clubesdeciencia.mx/clubes-2023/">Link</a> to the CdeCMx 2023 Edition
+    - title: Electrochemistry - How Do We Transport Energy?  
+      year: 2022
+      description: 
+        - Taught a workshop on electrochemical devices to 20+ high school and undergraduate students. 
+        - <a href="https://clubesdeciencia.mx/clubes22/">Link</a> to the CdeCMx 2022 Edition
+    - title: Quantum Chemistry for Kids 
+      year: 2019
+      description: 
+        - Built a 3D-printed interactive game for teaching atomic structure.
+        - Taught atomic structure concepts to 20+ elementary school students. 
+    - title: From Photons to Electrons 
+      year: 2018
+      description: 
+        - Participated as a guest instructor of a workshop on dye-sensitized solar cells for 30+ students. 
+    - title: Science Podcasts and Talk Shows 
+      year: 2021
+      description: 
+        - Recorded and broadcasted 50+ episodes on STEM at UACH radio station, impacting 1000+ listeners.  
 
 - title: Mentoring Experience
   type: time_table
@@ -421,85 +450,19 @@
       year: 2020-2022
       description: Master student (chemistry), UACH
 
-- title: Entrepreneurial Activities 
+- title: Certifications
   type: time_table
   contents:
-    - title: VirtAgro 
-      year: 2021
-      description: 
-        - Mentored and guided three undergraduate students, Mariella, Job, and Joel, in developing an intelligent sprinkler system controlled by a smartphone app and looking for potential customers through the business model canvas tool.
-        - The team qualified as semifinalists for the QuimInnova Pitch Competition (Fall 2021).
-    - title: Entrepreneurship, From Ideas to Businesses, UNAM/Santander
-      year: 2019
-      description: 
-        - Trained in developing new skills and identifying the necessary tools for becoming a successful young entrepreneur. 
-        - The course reviewed essential finances, markets, customers, benchmarking, marketing, human resources, and business model canvas.
-    - title: Entrepreneur Leader, H24U
-      year: 2019
-      description: 
-        - Received training in the <a href="https://new.nsf.gov/funding/initiatives/i-corps">I-Corps program</a> of the US National Science Foundation (NSF) to determine the commercial viability of the technology
-        - Participated as entrepreneur leader in developing an electrochemical system for ultra-pure hydrogen generation (H24U).
-        - The program was funded by the CONACyT (Mexico) and the NSF (United States) as part of the Northwest Binational Innovation Node (NoBI Noroeste). .
-        - Over 130 potential customers were interviewed, a business model canvas was developed, and a potential market was identified.
-        - <a href="https://www.youtube.com/watch?v=FT6OlMGNJ5M">Video of the project (Spanish)</a>
-
-- title: Science Communication 
-  type: time_table
-  contents:
-    - title: <a href="https://www.youtube.com/@Catalastic">Catalastic!</a> YouTube Channel 
-      year: 2023-Now
-      description: 
-        - Personal project to advance science communication through social media.
-    - title: Bright Spikes! Electrifying Chemical Reactions 
-      year: 2023
-      description: 
-        - International instructor for Clubes de Ciencia MX / ITESM
-        - Participated as the leading instructor of a science summer club organized by Clubes de Ciencia MX, ITESM, and CIMAV.
-        - Taught five sessions about electrochemistry concepts and electrocatalysis, with four laboratory sessions. 
-        - Fifteen students learned to make an inexpensive potentiostat with Arduino and LabVIEW.
-        - <a href="https://clubesdeciencia.mx/clubes-2023/">Link</a> to the CdeCMx 2023 Edition
-    - title: Electrochemistry - How Do We Transport Energy?  
-      year: 2022
-      description: 
-        - International instructor for Clubes de Ciencia MX / ITESM
-        - Participated as the leading instructor of a science summer club organized by Clubes de Ciencia MX, ITESM, and UANL.
-        - Taught five sessions about electrochemical energy devices and materials chemistry, with four laboratory sessions.
-        - Over 20 students constructed and tested water electrolyzers, fuel cells, and batteries.
-        - <a href="https://clubesdeciencia.mx/clubes22/">Link</a> to the CdeCMx 2022 Edition
-    - title: Quantum Chemistry for Kids 
-      year: 2019
-      description: 
-        - Developed a 3D-printed interactive game for teaching atomic structure concepts to elementary school students, as part of the Graduate Quantum Chemistry course imparted by Dr. Maria Elena Fuentes.
-        - Over 20 students were taught in two sessions. The school received four 3D-printed, interactive boards.
-    - title: From Photons to Electrons 
-      year: 2018
-      description: 
-        - Guest instructor for Clubes de Ciencia MX / ITESM.
-        - Participated as a guest instructor of a science summer club organized by Clubes de Ciencia MX, ITESM, and UACH.
-        - Taught two sessions about dye-sensitized solar cells and solar panels made by the students.
-        - Over 30 students learned how to make inexpensive solar cells and characterize their electrochemical performance.
-    - title: Science Podcasts and Talk Shows 
-      year: 2021
-      description: 
-        - Participated as a guest speaker at the UACH radio station for podcasting science topics about chemistry in daily life. 
-        - Over 50 science topics were recorded, edited, and broadcasted in 2016, impacting 1000+ listeners.
+    - year: 2023
+      items:
+        - <a href="https://accreditations.ioppublishing.org/ec759a9d-79e3-4787-b985-c8614120207f#gs.8palul">IOP Peer Review Excellence</a>, IOP Publishing
+    - year: 2020
+      items:
+        - Responsible Conduct of Research, CITI Program
 
 - title: Skills and Abilities 
   type: nested_list
   contents:
-    - title: Strong Personal Skills
-      items:
-        - Creativity
-        - Systems thinking
-        - Resilience
-        - Flexibility
-        - Oral communication
-        - Written communication
-        - Teamwork
-        - Leadership
-        - Interpersonal thinking
-        - Emotional intelligence
-        - Self-awareness
     - title: Instrumental Analysis and Methods
       items:
         - Scanning and transmission electron microscopy (SEM, TEM)
@@ -519,7 +482,7 @@
         - Thermogravimetric analysis (TGA)
         - Differential scanning calorimetry (DSC)
         - Tube furnace synthesis
-        - Microwave digestion systems
+        - Microwave digestion 
         - Demonstrated experience developing analytical protocols for <a href="https://doi.org/10.1021/acs.est.0c04190">electrochemical detection</a>, <a href="https://doi.org/10.1021/acs.est.0c04190">TXRF</a>, <a href="https://doi.org/10.1021/acs.est.0c04190">GC</a>, and <a href="https://www.jsg.utexas.edu/geo392-f21-class-project-group-vf50otr6gr">ICP-MS</a>.
     - title: Specialized Software
       items:
@@ -552,7 +515,6 @@
       items:
         - Avid outdoorsman
         - Passionate about science communication, podcasting, photography, video and audio editing, graphic design, and 2D/3D animation
-        - Occasional guitar player
 
 #- title: Other Interests
 #  type: list
