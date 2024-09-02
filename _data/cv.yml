@@ -140,7 +140,7 @@
       institution: Royal Society of Chemistry, American Chemical Society, American Institute of Chemical Engineers, Electrochemical Society, Mexican Hydrogen Society.
       year: 2022-now
 
-- title: Funding / Grants
+- title: Grants and Fellowships
   type: time_table
   contents:
     - title: International Doctoral Fellowship Program, CONAHCyT and University of Texas System  
@@ -173,39 +173,52 @@
     - title: ECS Texas Section Travel Award (243rd ECS Meeting)	  
       year: May 2023
 
-- title: Oral Presentations
+- title: Invited Talks
   type: time_table
   contents:
+    - title: Fall Seminar Series, Chemistry Department at UACH, Chihuahua, Mexico  
+      year: Aug 2024
+      description: The Devil is in the Impurities: Understanding the Influence of Transition Metal Impurities
+    - title: Electrochemistry Chalk Talks Series, UT-Austin ECS Chapter, Austin, TX
+      year: Nov 2023
+      description: Mastering the Art of Composing Scientific Graphics. <a href="https://www.youtube.com/watch?v=ubL84IKbsIM">Recording</a>
+    - title: Chemistry Recruitment 2023, UNAM, UAM, IPN, Mexico City, Mexico
+      year: Sep 2023
+      description: The Road to Grad School. A Guide to Joining the PhD Program in Chemistry (five talks in four universities).    
+    - title: Fall Seminar Series, Chemistry Department at UNAM, Mexico City, Mexico 
+      year: Sep 2023
+      description: The Devil is in the Impurities - Understanding the Influence of Transition Metal Impurities.     
+    - title: Electrochemistry Chalk Talks Series, UT-Austin ECS Chapter, Austin, TX
+      year: Apr 2023
+      description: Understanding Electrochemical Double Layer Capacitance Measurements. <a href="https://www.youtube.com/watch?v=cwRVWxTv9hk">Recording</a> 
+    - title: Hispanic Engineers Leadership Series, AIChE Chapter at UANL, Monterrey, Mexico
+      year: Oct 2022
+      description: Splitting Water with Electrons - Powering a Safer and Greener Future.
+    - title: Energy and Society Virtual Plenary Session, UABC, Zoom 
+      year: Nov 2020
+      description: Unraveling Electrochemical Water Splitting - Are Electrocatalysts Truly Stable? <a href="https://www.facebook.com/1428471490787415/videos/453519685629623">Recording (Spanish)</a> 
+    - title: ECS Monthly Webinars Plenary Session, UT-Austin, Zoom 
+      year: Jun 2020
+      description: Hydrogen from Sulfite Electrolysis - Toward the Rational Design and Optimization of Practical Electrochemical Flow Cell Systems
+
+- title: Talks Presented at Conferences
+  type: time_table
+  contents:
+    - title: ACS Fall 2024, Denver, CO  
+      year: Aug 2024
+      description: Incorporation of trace metals in situ through cation exchange: Electrochemical and structural effects on nickel oxyhydroxides
+    - title: ACS Fall 2024, Denver, CO  
+      year: Aug 2024
+      description: Teaching electrochemical energy conversion and storage through active learning: Insights from summer science clubs
     - title: 245th ECS meeting, San Francisco, CA  
       year: May 2024
       description: Dynamic Activity and Stability of Transition Metal (oxy)Hydroxide Oxygen Evolution Electrocatalysts Under Steady and Intermittent Operation
     - title: 244th ECS meeting, Gothenburg, Sweden   
       year: Oct 2023
-      description: Understanding the Effects of Transition Metal Impurities on Nickel (oxy)hydroxide Electrocatalysts in Alkaline Media
-    - title: Electrochemistry Chalk Talks Series, UT-Austin ECS Chapter, Austin, TX
-      year: Nov 2023
-      description: (Invited) Mastering the Art of Composing Scientific Graphics. <a href="https://www.youtube.com/watch?v=ubL84IKbsIM">Recording</a>
-    - title: Chemistry Recruitment 2023, UNAM, UAM, IPN, UANL, Mexico City, Mexico
-      year: Sep 2023
-      description: The Road to Grad School. A Guide to Joining the PhD Program in Chemistry (five talks in four universities).    
-    - title: FFall Seminar Series, Chemistry Department at UNAM,  Mexico City, Mexico 
-      year: Sep 2023
-      description: (Invited) The Devil is in the Impurities - Understanding the Influence of Transition Metal Impurities.     
-    - title: Electrochemistry Chalk Talks Series, UT-Austin ECS Chapter, Austin, TX
-      year: Apr 2023
-      description: (Invited) Understanding Electrochemical Double Layer Capacitance Measurements. <a href="https://www.youtube.com/watch?v=cwRVWxTv9hk">Recording</a> 
-    - title: Hispanic Engineers Leadership Series, AIChE Chapter at UANL, Monterrey, Mexico
-      year: Oct 2022
-      description: (Invited - Plenary Speaker) Splitting Water with Electrons - Powering a Safer and Greener Future.
+      description: Understanding the Effects of Transition Metal Impurities on Nickel (oxy)hydroxide Electrocatalysts in Alkaline Media       
     - title: ChemE Future Faculty Diversity Seminar Series, Zoom 
       year: Sep 2022
-      description: (Online) Taking the Next Step in Electrocatalysis - Closing Gaps Between Lab-scale Electrochemistry and Electrochemical Engineering.
-    - title: Energy and Society Virtual Plenary Session, UABC, Zoom 
-      year: Nov 2020
-      description: (Invited, Online) Unraveling Electrochemical Water Splitting - Are Electrocatalysts Truly Stable? <a href="https://www.facebook.com/1428471490787415/videos/453519685629623">Recording (Spanish)</a> 
-    - title: ECS Monthly Webinars Plenary Session, UT-Austin, Zoom 
-      year: Jun 2020
-      description: (Invited, Online) Hydrogen from Sulfite Electrolysis - Toward the Rational Design and Optimization of Practical Electrochemical Flow Cell Systems
+      description: (Online) Taking the Next Step in Electrocatalysis - Closing Gaps Between Lab-scale Electrochemistry and Electrochemical Engineering
     - title: 14th HYPOTHESIS International Symposium, Foz do Iguazu, Brazil
       year: Apr 2019
       description: Sulfur dioxide exploitation by electrochemical oxidation of sulfite in near-neutral pH via the Sulfur-Ammonia Cycle
@@ -216,7 +229,7 @@
       year: Sep 2016
       description: Design of an Ion-Exchange Membrane Electrochemical Reactor for Hydrogen Production via the S-NH3 Cycle 
 
-- title: Poster Presentations
+- title: Posters Presented at Conferences
   type: time_table
   contents:
     - title: 245th ECS meeting, San Francisco, CA   
@@ -302,7 +315,7 @@
         - Formulated a proof-of-concept process for sulfite electrooxidation. 
         - Simulated a flue gas desulfurization plant to capture sulfur dioxide.
 
-- title: Work/Teaching Experience
+- title: Teaching Experience
   type: time_table
   contents:
     - title: International Instructor
@@ -315,41 +328,44 @@
          # contents:
             #- Sub-description 1.
             #- Sub-description 2.  
-    - title: Graduate Teaching Assistant
+    - title: Teaching Assistant
       institution: The University of Texas at Austin
       year: 2020 - 2021
       description:
-        - Taught Introduction to Chemical Practice for Fall and Spring semesters.
+        - Taught two terms of Introduction to Chemical Practice.
         - Received two teaching awards from UT-Austin.
     - title: GRS 097 Fundamentals for Teaching Assistants
       institution: The University of Texas at Austin
       year: 2020
       description:
         - Completed a semester-long pedagogy course for graduate teaching assistants. 
-    - title: Research Assistant
-      institution: Universidad Autonoma de Chihuahua
-      year: 2017 - 2018
-      description:
-        - Developed corrosion tests and passivation experiments on stainless steel.
     - title: Undergraduate Teaching Assistant
       institution: Universidad Autonoma de Chihuahua
       year: 2017 - 2018
       description:
         - Taught undergraduate Physical Chemistry and graduate Instrumental Analysis courses.
 
+- title: Departamental Service
+  type: time_table
+  contents:
+    - title: Graduate Recruiter and Student Host, Department of Chemistry, UT-Austin
+      year: 2021-now
+      description: 
+        - Hosted eight visiting students and served as staff during recruitment events. 
+        - Delivered six recruiting seminars at the top five national universities in Mexico.
+        - Mentored 10+ applicants and offered 40+ hours of practice for the TOEFL and IELTS exams. 
+
 - title: Volunteering
   type: time_table
   contents:
-    - title: Clubes de Ciencia Mx
+    - title: Ambassador, Clubes de Ciencia MX 
       year: 2023-now
       description: 
-        - Served as an international ambassador.
-        - Reviewed 80+ proposals of instructors and participants for summer workshops. 
-        - Shared information about the summer workshops at national and international conferences.
-    - title: UT-Austin ECS Student Chapter
+        - Reviewed 80+ educational workshop proposals.
+        - Shared information about the program at national and international conferences.
+    - title: Secretary, UT-Austin ECS Student Chapter 
       year: 2023-now
       description: 
-        - Served as the secretary of the ECS student chapter at UT-Austin.
         - Started a series of Chalk Talks in electrochemistry.
         - Created the official <a href="https://sites.utexas.edu/ecs/">Website</a> and managed all the social media accounts. 
         - Served as photographer for academic and outreach activities. 
@@ -362,7 +378,7 @@
         - Hosted eight visiting students and served as staff during recruitment events. 
         - Delivered six recruiting seminars at the top five national universities in Mexico.
         - Mentored 10+ applicants and offered 40+ hours of practice sessions for the TOEFL and IELTS exams. 
-    - title: Mexican Red Cross 
+    - title: Young leader, Mexican Red Cross  
       year: 2009 - 2013
       description: 
         - Served as a part-time volunteer in a nonprofit and charity association.
