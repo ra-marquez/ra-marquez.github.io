@@ -58,7 +58,7 @@
       items:
         - Marquez, R.A., et al. Transition metal incorporation - electrochemical, structure, and chemical effects on nickel oxyhydroxide oxygen-evolution electrocatalysts. Energy & Environmental Science, 2024, 17, 2028-2045. <a href="https://doi.org/10.1039/D3EE03617K">Link</a> 
         - Marquez, R.A., et al. A Guide to Electrocatalyst Stability Using Lab-Scale Alkaline Water Electrolyzers. ACS Energy Letters, 2024, 9, 2, 547–555. <a href="https://pubs.acs.org/doi/10.1021/acsenergylett.3c02758">Link</a> 
-        - Marquez, R.A., et al. Teaching Electrochemical Energy Conversion and Storage through Active Learning Insights from Science Workshops. Journal of Chemical Education, 2024, X, X, XXX–XXX. <a href="https://pubs.acs.org/doi/10.1021/acs.jchemed.4c00445">Link</a> 
+        - Marquez, R.A., et al. Teaching Electrochemical Energy Conversion and Storage through Active Learning Insights from Science Workshops. Journal of Chemical Education, 2024, 101, 8, 3333–3343. <a href="https://pubs.acs.org/doi/10.1021/acs.jchemed.4c00445">Link</a> 
         - Marquez, R.A., et al. Getting the Basics Right - Preparing Alkaline Electrolytes for Electrochemical Applications. ACS Energy Letters, 2023, 8, 2, 1141–1146. <a href="https://doi.org/10.1021/acsenergylett.2c02847">Link</a> 
         - Marquez, R.A., et al. Tailoring 3D-Printed Electrodes for Enhanced Water Splitting. ACS Applied Materials & Interfaces, 2022, 14, 37, 42153–42170. <a href="https://doi.org/10.1021/acsami.2c12579">Link</a> 
         - Marquez, R.A., et al. Mass transport-enhanced electrodeposition of Ni–S–P–O films on nickel foam for electrochemical water splitting. Journal of Materials Chemistry A, 2021, 9, 12, 7736-7749. <a href="https://doi.org/10.1039/D0TA12097A">Link</a> 
@@ -134,7 +134,7 @@
       institution: UT-Austin ECS Student Chapter
       year: 2023-now
     - title: Young Leader
-      institution: Mexican Youth Red Cross
+      institution: Mexican Red Cross
       year: 2009-2013
     - title: Memberships
       institution: Royal Society of Chemistry, American Chemical Society, American Institute of Chemical Engineers, Electrochemical Society, Mexican Hydrogen Society.
@@ -178,7 +178,7 @@
   contents:
     - title: Fall Seminar Series, Chemistry Department at UACH, Chihuahua, Mexico  
       year: Aug 2024
-      description: The Devil is in the Impurities: Understanding the Influence of Transition Metal Impurities
+      description: The Devil is in the Impurities - Understanding the Influence of Transition Metal Impurities.
     - title: Electrochemistry Chalk Talks Series, UT-Austin ECS Chapter, Austin, TX
       year: Nov 2023
       description: Mastering the Art of Composing Scientific Graphics. <a href="https://www.youtube.com/watch?v=ubL84IKbsIM">Recording</a>
@@ -206,10 +206,10 @@
   contents:
     - title: ACS Fall 2024, Denver, CO  
       year: Aug 2024
-      description: Incorporation of trace metals in situ through cation exchange: Electrochemical and structural effects on nickel oxyhydroxides
+      description: Incorporation of trace metals in situ through cation exchange - Electrochemical and structural effects on nickel oxyhydroxides
     - title: ACS Fall 2024, Denver, CO  
       year: Aug 2024
-      description: Teaching electrochemical energy conversion and storage through active learning: Insights from summer science clubs
+      description: Teaching electrochemical energy conversion and storage through active learning - Insights from summer science clubs
     - title: 245th ECS meeting, San Francisco, CA  
       year: May 2024
       description: Dynamic Activity and Stability of Transition Metal (oxy)Hydroxide Oxygen Evolution Electrocatalysts Under Steady and Intermittent Operation
