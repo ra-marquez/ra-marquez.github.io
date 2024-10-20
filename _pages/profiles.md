@@ -32,7 +32,7 @@ I am committed to expanding this initiative throughout my career, collaborating 
 
 In line with my passion for science communication, I have actively shared my enthusiasm for education with a diverse audience, ranging from elementary students to undergraduates. I have been fortunate to serve as co-instructor for [Clubes de Ciencia Mexico (CdeCMx)](https://clubesdeciencia.mx/en/), a non-profit organization dedicated to enhancing scientific education through exceptional extracurricular STEM programs. 
 
-Annually, CdeCMx offers free, high-quality workshops and courses across various STEM fields in Mexico, crafted by young scientists and innovators from top institutions in Mexico and the U.S. My contributions have included developing and leading two workshops focused on electrochemistry and materials science. The pedagogical effectiveness of these workshops is currently being evaluated for publication in the Journal of Chemical Education of the ACS. 
+Annually, CdeCMx offers free, high-quality workshops and courses across various STEM fields in Mexico, crafted by young scientists and innovators from top institutions in Mexico and the U.S. My contributions have included developing and leading two workshops focused on electrochemistry and materials science. The pedagogical strategies, slides, handouts, and experiments of these workshops are described in a [refereed article](https://pubs.acs.org/doi/10.1021/acs.jchemed.4c00445) published in the Journal of Chemical Education. Feel free to email me if you are interested in any of the materials related to this publication!
 
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
