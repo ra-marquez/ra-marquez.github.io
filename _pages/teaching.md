@@ -34,7 +34,8 @@ Beyond the academic realm, I've imparted skills in first aid, CPR, humanitarian 
 
 My teaching methodologies adhere to the [Standards and Guidelines for Chemistry Education established by the ACS]( https://www.acs.org/education/policies.html). I also incorporate resources from the [AIChE Institute for Learning and Innovation]( https://www.aiche.org/ili/educators) to enhance STEM education. I stay informed with the latest educational strategies through journals like the [Journal of Chemical Education](https://pubs.acs.org/journal/jceda8). 
 
-Furthermore, I've also co-designed and co-instructed intensive courses on electrochemical energy devices for [Clubes de Ciencia MX](https://clubesdeciencia.mx/en/). The course materials, laboratory handouts, and student assessment tools were submitted to the Journal of Chemical Education and are currently under review for publication.
+Furthermore, I've also co-designed and co-instructed intensive courses on electrochemical energy devices for [Clubes de Ciencia MX](https://clubesdeciencia.mx/en/). The course materials, laboratory handouts, and student assessment tools are described in a [refereed article](https://pubs.acs.org/doi/10.1021/acs.jchemed.4c00445) published in the Journal of Chemical Education. Feel free to email me if you want access to all the materials!
+
 
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
