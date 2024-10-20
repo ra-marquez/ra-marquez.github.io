@@ -47,12 +47,12 @@
 - title: Selected Publications
   type: nested_list
   contents:
-    - title: Metrics from <a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a> (August 2024)
+    - title: Metrics from <a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a> (October 2024)
       items:
         - Refereed Publications - 24
         - First-author publications - 12
-        - Citations - 498
-        - H-index - 11
+        - Citations - 599
+        - H-index - 13
         - For a complete list of publications, please visit this <a href="https://ra-marquez.github.io/publications/">page</a>.
     - title: Completed as a PhD student at UT-Austin.
       items:
@@ -176,6 +176,9 @@
 - title: Invited Talks
   type: time_table
   contents:
+    - title: PRiME 2024, Honolulu, HI  
+      year: Oct 2024
+      description: Active Learning Strategies for Teaching Electrochemical Energy Conversion and Storage - Insights from Science Clubs.
     - title: Fall Seminar Series, Chemistry Department at UACH, Chihuahua, Mexico  
       year: Aug 2024
       description: The Devil is in the Impurities - Understanding the Influence of Transition Metal Impurities.
@@ -204,6 +207,15 @@
 - title: Talks Presented at Conferences
   type: time_table
   contents:
+    - title: 2024 AIChE Annual Meeting, San Diego, CA  
+      year: Oct 2024
+      description: Reconstruction of Transition Metal OxyHydroxide Electrocatalysts Induced By Intermittent Water Electrolysis.
+    - title: PRiME 2024, Honolulu, HI  
+      year: Oct 2024
+      description: Reconstruction and Dissolution of Transition Metal OxyHydroxide Electrocatalysts Induced By Intermittent Water Electrolysis.
+    - title: PRiME 2024, Honolulu, HI  
+      year: Oct 2024
+      description: Incorporation of Trace Metals through in situ Cation Exchange Reactions - Electrochemical and Structural Effects on Nickel Oxyhydroxide Electrocatalysts.
     - title: ACS Fall 2024, Denver, CO  
       year: Aug 2024
       description: Incorporation of trace metals in situ through cation exchange - Electrochemical and structural effects on nickel oxyhydroxides
@@ -232,6 +244,12 @@
 - title: Posters Presented at Conferences
   type: time_table
   contents:
+    - title: 2024 AIChE Annual Meeting, San Diego, CA  
+      year: Oct 2024
+      description: Trace Metal Incorporation through in Situ Cation Exchange - Effects on Energy Conversion and Storage Properties.
+    - title: PRiME 2024, Honolulu, HI  
+      year: Oct 2024
+      description: Benchmarking Electrocatalyst Stability Tests Using Lab-Scale Alkaline Water Electrolyzers.
     - title: 245th ECS meeting, San Francisco, CA   
       year: May 2024
       description: A Guide to Electrocatalyst Stability Using Lab-Scale Alkaline Water Electrolyzers. 
