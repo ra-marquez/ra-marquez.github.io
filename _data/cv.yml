@@ -73,18 +73,24 @@
 - title: Awards and Recognition
   type: time_table
   contents:
-    - year: 2020-now
+    - year: 2020-2025
       items:
         - <a href="https://cm.utexas.edu/academics/graduate/prospective-students/recruiting-fellowships">Provost’s Graduate Excellence Fellowship</a>, UT-Austin 
         - Morton Share Trust Graduate Fellowship, UT-Austin
         - Royston M. Roberts Fellowship in Chemistry, UT-Austin   
         - Maddin Endowed Scholarship in Chemistry, UT-Austin
-    - year: 2021-now
+    - year: 2025
+      items:
+        - <a href="https://cen.acs.org/acs-news/programs/Meet-2025-CAS-Future-Leaders/103/web/2025/07">CAS Future Leaders 2025</a>, The American Chemical Society
+    - year: 2021-2025
       items:
         - <a href="https://conahcyt.mx/becas_posgrados/becas-al-extranjero/">International Doctoral Fellowship</a>, Mexican National Council of Humanities, Sciences and Technologies (CONAHCyT) / University of Texas System
     - year: 2025
       items:
         - <a href="https://www.electrochem.org/etd-graduate-student-award">Energy Technology Division Graduate Student Award sponsored by BioLogic</a>, The Electrochemical Society
+    - year: 2025
+      items:
+        - NAM29 Kokes Award, The North American Catalysis Society
     - year: 2024
       items:
         - <a href="https://www.electrochem.org/ecsnews/2024-ecs-fink-and-summer-fellowship-recipients/">Edward G. Weston Summer Fellowship</a>, The Electrochemical Society
@@ -109,13 +115,13 @@
         - Chemistry Department Service Award, UT-Austin 
     - year: 2020
       items:
-        - MS in Chemistry - Cum Laude Academic Honor, Universidad Autonoma de Chihuahua
+        - MS in Chemistry - Suma Cum Laude Academic Honor, Universidad Autonoma de Chihuahua
     - year: 2019
       items:
         - <a href="https://www.gob.mx/sre/documentos/programa-de-investigaciones-conjuntas-matias-romero-para-profesores-visitantes-y-estudiantes-de-posgrado-2019-2020-en-eua">Matias Romero Visiting Scholars Program</a> (First place), UT-Austin and Secretary of Foreign Affairs (Mexico)
     - year: 2017
       items:
-        - BE in Chemical Engineering - Cum Laude Academic Honor, Universidad Autonoma de Chihuahua 
+        - BE in Chemical Engineering - Suma Cum Laude Academic Honor, Universidad Autonoma de Chihuahua 
         - <a href="https://www.aiche.org/community/awards/harry-west-student-poster-award">Harry West Student Poster Award</a> (First place), The American Institute of Chemical Engineers
     - year: 2016
       items:
