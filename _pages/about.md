@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://cm.utexas.edu/'>Department of Chemistry, The University of Texas at Austin</a>. 
+subtitle: <a href='https://che.utexas.edu/'>McKetta Department of Chemical Engineering, The University of Texas at Austin</a>. 
 
 profile:
   align: right
