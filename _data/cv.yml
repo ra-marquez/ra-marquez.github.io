@@ -4,7 +4,7 @@
     - name: Full Name
       value: Raul A. Marquez
     - name: Position
-      value: Ph.D. Candidate
+      value: Postdoctoral Researcher
     - name: Email
       value: raul.marquez@utexas.edu
     - name: Address
@@ -13,6 +13,20 @@
       value: English, Spanish (native proficiency)
     - name: Links
       value: <a href="https://orcid.org/0000-0003-3885-5007">ORCID</a>    <a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a>    <a href="https://www.linkedin.com/in/raulamm94/">LinkedIn</a> 
+
+- title: Professional Appointments
+  type: time_table
+  contents:
+    - title: Postdoctoral Fellow
+      institution: The University of Texas at Austin, Austin, Texas, US
+      year: 2025 - NOW
+      description:
+        - Start date September 2025
+        - Supervisor - Prof. Joaquin Resasco
+        #- title: Description 3.
+          #contents:
+            #- Sub-description 1.
+            #- Sub-description 2.
 
 - title: Education
   type: time_table
@@ -47,15 +61,17 @@
 - title: Selected Publications
   type: nested_list
   contents:
-    - title: Metrics from <a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a> (October 2024)
+    - title: Metrics from <a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a> (October 2025)
       items:
         - Refereed Publications - 28
-        - First-author publications - 17
-        - Citations - 1014
+        - First-author publications - 14
+        - Citations - 1172
         - H-index - 16
         - For a complete list of publications, please visit this <a href="https://ra-marquez.github.io/publications/">page</a>.
     - title: Completed as a PhD student at UT-Austin.
       items:
+        - Marquez, R.A., et al. Insights into catalyst degradation during alkaline water electrolysis under variable operation. Energy & Environmental Science, 2025, 18, 7170-7187. <a href="https://doi.org/10.1039/D5EE02194D">Link</a> 
+        - Marquez, R.A., et al. Tracking Local pH Dynamics during Water Electrolysis via In-Line Continuous Flow Raman Spectroscopy. ACS Energy Letters, 2025, 10, 4, 2075-2083. <a href="https://pubs.acs.org/doi/abs/10.1021/acsenergylett.5c00582">Link</a> 
         - Marquez, R.A., et al. Transition metal incorporation - electrochemical, structure, and chemical effects on nickel oxyhydroxide oxygen-evolution electrocatalysts. Energy & Environmental Science, 2024, 17, 2028-2045. <a href="https://doi.org/10.1039/D3EE03617K">Link</a> 
         - Marquez, R.A., et al. A Guide to Electrocatalyst Stability Using Lab-Scale Alkaline Water Electrolyzers. ACS Energy Letters, 2024, 9, 2, 547–555. <a href="https://pubs.acs.org/doi/10.1021/acsenergylett.3c02758">Link</a> 
         - Marquez, R.A., et al. Teaching Electrochemical Energy Conversion and Storage through Active Learning Insights from Science Workshops. Journal of Chemical Education, 2024, 101, 8, 3333–3343. <a href="https://pubs.acs.org/doi/10.1021/acs.jchemed.4c00445">Link</a> 
@@ -82,6 +98,9 @@
     - year: 2025
       items:
         - <a href="https://cen.acs.org/acs-news/programs/Meet-2025-CAS-Future-Leaders/103/web/2025/07">CAS Future Leaders 2025</a>, The American Chemical Society
+    - year: 2025
+      items:
+        - CATL Division Poster Award, The American Chemical Society      
     - year: 2021-2025
       items:
         - <a href="https://conahcyt.mx/becas_posgrados/becas-al-extranjero/">International Doctoral Fellowship</a>, Mexican National Council of Humanities, Sciences and Technologies (CONAHCyT) / University of Texas System
@@ -194,6 +213,12 @@
 - title: Invited Talks
   type: time_table
   contents:
+    - title: Electrocatalysis Rigor & Reproducibility Workshop, Seattle, WA  
+      year: July 2025
+      description: Getting the Basics Right: Electrolyte Essentials for Electrocatalysis.
+    - title: 247th ECS Meeting, Montreal, Canada  
+      year: May 2025
+      description: Intermittency Intensifies Catalyst Transformations and Degradation in Liquid Alkaline Water Electrolysis (ETD Graduate Student Award sponsored by BioLogic).
     - title: PRiME 2024, Honolulu, HI  
       year: Oct 2024
       description: Active Learning Strategies for Teaching Electrochemical Energy Conversion and Storage - Insights from Science Clubs.
@@ -225,6 +250,18 @@
 - title: Talks Presented at Conferences
   type: time_table
   contents:
+    - title: 248th ECS Meeting, Chicago, IL 
+      year: Oct 2025
+      description: Quantifying Interfacial pH Changes during Water Electrolysis with in-Line Continuous Flow Raman Spectroscopy.
+    - title: 248th ECS Meeting, Chicago, IL 
+      year: Oct 2025
+      description: Active Learning Strategies for Teaching Electrochemical Energy Conversion and Storage.
+    - title: ACS Fall 2025, Washington, DC  
+      year: Aug 2025
+      description: Tracking local pH dynamics during water electrolysis via in-line continuous flow Raman spectroscopy
+    - title: 29th North American Catalysis Society Meeting, Atlanta, GA 
+      year: June 2025
+      description: Intermittency accelerates catalyst transformations and degradation during water electrolysis.
     - title: 2024 AIChE Annual Meeting, San Diego, CA  
       year: Oct 2024
       description: Reconstruction of Transition Metal OxyHydroxide Electrocatalysts Induced By Intermittent Water Electrolysis.
@@ -262,6 +299,18 @@
 - title: Posters Presented at Conferences
   type: time_table
   contents:
+    - title: 248th ECS Meeting, Chicago, IL 
+      year: Oct 2025
+      description: Intermittency Strikes Back! How Dynamic Environments Reshape Liquid Alkaline Water Electrolysis.
+    - title: ACS Fall 2025, Washington, DC  
+      year: Aug 2025
+      description: Variable operation accelerates catalyst degradation during water electrolysis.
+    - title: CAS Future Leaders Program, Columbus, OH
+      year: Aug 2025
+      description: Variable operation accelerates catalyst degradation during water electrolysis.
+    - title: Bard CEC Workshop on Electrochemistry, Austin, TX
+      year: April 2025
+      description: Trace Metal Incorporation through in Situ Cation Exchange Effects on Energy Conversion and Storage Properties.
     - title: 2024 AIChE Annual Meeting, San Diego, CA  
       year: Oct 2024
       description: Trace Metal Incorporation through in Situ Cation Exchange - Effects on Energy Conversion and Storage Properties.
@@ -475,22 +524,22 @@
   type: time_table
   contents:
     - title: Chloe Williamson
-      year: 2024-now
+      year: 2024-2025
       description: Undergraduate student (chemical engineering), UT-Austin
     - title: Thuy Vy Le
-      year: 2023-now
+      year: 2023-2025
       description: Undergraduate student (chemistry), UT-Austin
     - title: Daniel Y. Ko
       year: 2023
       description: Undergraduate student (chemical engineering), UT-Austin   
     - title: Sergio Ochoa
-      year: 2023-now
+      year: 2023-2025
       description: Undergraduate student (chemical engineering), UACH
     - title: Michael Espinosa
-      year: 2023-now
+      year: 2023-2025
       description: Undergraduate student (chemistry), UT-Austin
     - title: Emma Kalokowski
-      year: 2022-now
+      year: 2022-2025
       description: Undergraduate student (chemistry), UT-Austin
     - title: Grace Castellino
       year: 2022
