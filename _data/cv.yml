@@ -213,9 +213,9 @@
 - title: Invited Talks
   type: time_table
   contents:
-    - title: Electrocatalysis Rigor & Reproducibility Workshop, Seattle, WA  
+    - title: Electrocatalysis Rigor and Reproducibility Workshop, Seattle, WA  
       year: July 2025
-      description: Getting the Basics Right: Electrolyte Essentials for Electrocatalysis.
+      description: Getting the Basics Right - Electrolyte Essentials for Electrocatalysis.
     - title: 247th ECS Meeting, Montreal, Canada  
       year: May 2025
       description: Intermittency Intensifies Catalyst Transformations and Degradation in Liquid Alkaline Water Electrolysis (ETD Graduate Student Award sponsored by BioLogic).
@@ -301,7 +301,7 @@
   contents:
     - title: 248th ECS Meeting, Chicago, IL 
       year: Oct 2025
-      description: Intermittency Strikes Back! How Dynamic Environments Reshape Liquid Alkaline Water Electrolysis.
+      description: Intermittency Strikes Back - How Dynamic Environments Reshape Liquid Alkaline Water Electrolysis.
     - title: ACS Fall 2025, Washington, DC  
       year: Aug 2025
       description: Variable operation accelerates catalyst degradation during water electrolysis.
