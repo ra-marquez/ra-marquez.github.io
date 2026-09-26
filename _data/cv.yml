@@ -33,7 +33,7 @@
   contents:
     - title: PhD Chemistry
       institution: The University of Texas at Austin, Austin, Texas, US
-      year: 2024 - 2025
+      year: 2020 - 2025
       description:
         - Analytical Chemistry
         - Start date August 2020
@@ -61,13 +61,16 @@
 - title: Selected Publications
   type: nested_list
   contents:
-    - title: Metrics from <a href="https://scholar.google.com.mx/citations?user=Pq-KzBYAAAAJ">Google Scholar</a> (October 2025)
+    - title: Metrics from <a href="https://scholar.google.com/citations?user=Pq-KzBYAAAAJ&hl=en">Google Scholar</a> (October 2025)
       items:
-        - Refereed Publications - 28
-        - First-author publications - 14
+        - Refereed Publications - 32
+        - First-author publications - 16
         - Citations - 1172
         - H-index - 16
         - For a complete list of publications, please visit this <a href="https://ra-marquez.github.io/publications/">page</a>.
+    - title: Completed as a Postdoctoral Fellow at UT-Austin.
+      items:
+        - Marquez, R.A., Nielander, A.C., Resasco, J., Jaramillo, T.F., Mullins, C.B. Electrochemical Ocean-Based Carbon Capture - Roadblocks to Scale-Up. ACS Energy Letters, 2026, 11, 2, 1241-1259. <a href="https://doi.org/10.1021/acsenergylett.5c04249">Link</a>
     - title: Completed as a PhD student at UT-Austin.
       items:
         - Marquez, R.A., et al. Insights into catalyst degradation during alkaline water electrolysis under variable operation. Energy & Environmental Science, 2025, 18, 7170-7187. <a href="https://doi.org/10.1039/D5EE02194D">Link</a> 
@@ -89,6 +92,9 @@
 - title: Awards and Recognition
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Poster Award (Postdoc), Gordon Research Conference on Catalysis
     - year: 2020-2025
       items:
         - <a href="https://cm.utexas.edu/academics/graduate/prospective-students/recruiting-fellowships">Provost’s Graduate Excellence Fellowship</a>, UT-Austin 
@@ -159,12 +165,15 @@
   type: time_table
   contents:
     - title: Peer Reviewer
-      institution: Materials Horizons, Journal of the Electrochemical Society, International Journal of Hydrogen Energy, Journal of Physical Chemistry, Chemistry of the Materials
+      institution: ACS Energy Letters, ACS Electrochemistry, Materials Horizons, JACS Au, Journal of the Electrochemical Society, Joule, International Journal of Hydrogen Energy, Journal of Physical Chemistry, Chemistry of Materials, Nature Reviews Clean Technology, ChemCatChem, Advanced Energy Materials
       year: 2023-now
     - title: Community Board Member 
       institution: Materials Horizons Journal, The Royal Society of Chemistry.  
       year: 2023-now
-    - title: International Ambassador
+    - title: CAS Future Leaders
+      institution: Chemical Abstracts Service, The American Chemical Society
+      year: 2025
+    - title: Instructor and Ambassador
       institution: Clubes de Ciencia MX 
       year: 2023-now
     - title: Secretary
@@ -174,7 +183,7 @@
       institution: Mexican Red Cross
       year: 2009-2013
     - title: Memberships
-      institution: Royal Society of Chemistry, American Chemical Society, American Institute of Chemical Engineers, Electrochemical Society, Mexican Hydrogen Society.
+      institution: Royal Society of Chemistry, American Chemical Society, American Institute of Chemical Engineers, Society of Hispanic Professional Engineers, Electrochemical Society.
       year: 2022-now
 
 - title: Grants and Fellowships
@@ -199,8 +208,14 @@
 - title: Travel Awards
   type: time_table
   contents:
+    - title: College of Natural Sciences Professional Development Award, UT-Austin
+      year: 2025
+    - title: NAM29 Kokes Travel Award, The North American Catalysis Society
+      year: 2025
     - title: CATL-ChemCatBio Graduate Student Travel Award, The American Chemical Society  
       year: Aug 2024
+    - title: ECS Texas Section Travel Award (245th ECS Meeting), The Electrochemical Society
+      year: May 2024
     - title: Professional Development Travel Award, Chemistry Department, UT-Austin  
       year: Aug 2024
     - title: Center for Electrochemistry Travel Grant, Center for Electrochemistry at UT-Austin	  
@@ -213,6 +228,9 @@
 - title: Invited Talks
   type: time_table
   contents:
+    - title: Gordon Research Seminar on Catalysis, New London, NH
+      year: 2026
+      description: Dynamic Interconversion of Homogeneous and Heterogeneous Active Phases in Pd-Catalyzed Alcohol Oxidation.
     - title: Electrocatalysis Rigor and Reproducibility Workshop, Seattle, WA  
       year: July 2025
       description: Getting the Basics Right - Electrolyte Essentials for Electrocatalysis.
@@ -250,6 +268,9 @@
 - title: Talks Presented at Conferences
   type: time_table
   contents:
+    - title: AIChE Annual Meeting 2025, Boston, MA
+      year: 2025
+      description: Active Learning Strategies for Teaching Electrochemical Energy Conversion and Storage.
     - title: 248th ECS Meeting, Chicago, IL 
       year: Oct 2025
       description: Quantifying Interfacial pH Changes during Water Electrolysis with in-Line Continuous Flow Raman Spectroscopy.
@@ -299,6 +320,18 @@
 - title: Posters Presented at Conferences
   type: time_table
   contents:
+    - title: Gordon Research Conference on Catalysis, New London, NH
+      year: 2026
+      description: Tracking thermochemical catalysis dynamics through electrochemical corrosion monitoring.
+    - title: Gordon Research Conference on Electrochemistry, Ventura, CA
+      year: 2026
+      description: Effects of the Reaction Environment on Liquid Alkaline Water Electrolysis.
+    - title: Gordon Research Seminar on Electrochemistry, Ventura, CA
+      year: 2026
+      description: Tracking local pH dynamics during water electrolysis via in-line continuous flow Raman spectroscopy.
+    - title: AIChE Annual Meeting 2025, Boston, MA
+      year: 2025
+      description: Intermittency Strikes Back! How Dynamic Environments Reshape Liquid Alkaline Water Electrolysis (Meet the Faculty and Post-Doc Candidates Poster Session).
     - title: 248th ECS Meeting, Chicago, IL 
       year: Oct 2025
       description: Intermittency Strikes Back - How Dynamic Environments Reshape Liquid Alkaline Water Electrolysis.
@@ -360,9 +393,17 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher
+      institution: The University of Texas at Austin, Resasco Research Group
+      year: 2025-Now
+      description:
+        - Investigated galvanic coupling in thermochemical catalysis.
+        - Linked Pd corrosion, catalyst potential, and heterogeneous-homogeneous reactivity.
+        - Studied coupled oxygen reduction and alcohol oxidation to determine how the reaction environment regulates thermochemical rates.
+        - Prepared a tutorial review on experimental practices in electrocatalysis research.
     - title: Graduate Research Assistant
       institution: The University of Texas at Austin, Mullins Research Group
-      year: 2020-Now
+      year: 2020-2025
       description:
         - title: Liquid alkaline water electrolysis
           contents:
@@ -404,11 +445,11 @@
   type: time_table
   contents:
     - title: International Instructor
-      institution: Clubes de Ciencia Mx
-      year: 2022 - 2023
+      institution: Clubes de Ciencia MX
+      year: Summers of 2022, 2023, and 2025
       description:
-        - Designed and taught two workshops on electrochemical energy devices to undergraduate students.
-        - Assessed the effectiveness of the course and published the results in a referred educational article. 
+        - Designed and taught three science workshops for 95+ students using hands-on and active-learning activities.
+        - Coauthored a Journal of Chemical Education article on the electrochemistry curriculum. 
         #- title: Description 3.
          # contents:
             #- Sub-description 1.
@@ -434,7 +475,7 @@
   type: time_table
   contents:
     - title: Graduate Recruiter and Student Host, Department of Chemistry, UT-Austin
-      year: 2021-now
+      year: 2021-2024
       description: 
         - Hosted eight visiting students and served as staff during recruitment events. 
         - Delivered six recruiting seminars at the top five national universities in Mexico.
@@ -457,7 +498,7 @@
         - Recorded, edited, and posted seminar recordings on the official YouTube channel. 
         - Coordinated social events and academic seminars. 
     - title: Department of Chemistry, UT-Austin
-      year: 2021-now
+      year: 2021-2024
       description: 
         - Assisted the Department of Chemistry as a graduate recruiter and student host. 
         - Hosted eight visiting students and served as staff during recruitment events. 
@@ -496,6 +537,8 @@
       year: 2023-Now
       description: 
         - Created a YouTube channel to promote science communication through social media. 
+    - title: Energy Across Living Oceans
+      year: 2025
     - title: Bright Spikes! Electrifying Chemical Reactions 
       year: 2023
       description: 
@@ -516,37 +559,43 @@
       description: 
         - Participated as a guest instructor of a workshop on dye-sensitized solar cells for 30+ students. 
     - title: Science Podcasts and Talk Shows 
-      year: 2021
+      year: 2016
       description: 
         - Recorded and broadcasted 50+ episodes on STEM at UACH radio station, impacting 1000+ listeners.  
 
 - title: Mentoring Experience
   type: time_table
   contents:
+    - title: Michael J. Brockmann
+      year: 2025-Present
+      description: Undergraduate student (chemical engineering), UT-Austin
+    - title: Alyssa Uvodich
+      year: 2025-Present
+      description: Undergraduate student (chemical engineering), UT-Austin
     - title: Chloe Williamson
-      year: 2024-2025
+      year: 2024-Present
       description: Undergraduate student (chemical engineering), UT-Austin
     - title: Thuy Vy Le
-      year: 2023-2025
+      year: 2023-2024
       description: Undergraduate student (chemistry), UT-Austin
     - title: Daniel Y. Ko
       year: 2023
-      description: Undergraduate student (chemical engineering), UT-Austin   
-    - title: Sergio Ochoa
-      year: 2023-2025
-      description: Undergraduate student (chemical engineering), UACH
+      description: Undergraduate student (chemical engineering), UT-Austin
     - title: Michael Espinosa
-      year: 2023-2025
+      year: 2023-Summer 2025
       description: Undergraduate student (chemistry), UT-Austin
     - title: Emma Kalokowski
-      year: 2022-2025
+      year: 2022-Summer 2025
       description: Undergraduate student (chemistry), UT-Austin
     - title: Grace Castellino
       year: 2022
       description: Undergraduate student (chemistry), UT-Austin
     - title: Grayson Constantine
-      year: 2021-2022
-      description: Undergraduate student (chemical engineering), UT-Austin 
+      year: 2022
+      description: Undergraduate student (chemical engineering), UT-Austin
+    - title: Sergio Ochoa
+      year: 2023-Present
+      description: Undergraduate student (chemical engineering), UACH
     - title: Kenya Mora-Dominguez
       year: 2020-2022
       description: Master student (chemistry), UACH
