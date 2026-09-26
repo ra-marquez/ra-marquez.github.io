@@ -61,12 +61,13 @@
 - title: Selected Publications
   type: nested_list
   contents:
-    - title: Metrics from <a href="https://scholar.google.com/citations?user=Pq-KzBYAAAAJ&hl=en">Google Scholar</a> (October 2025)
+    - title: Metrics from <a href="https://scholar.google.com/citations?user=Pq-KzBYAAAAJ&hl=en">Google Scholar</a> (September 2026)
       items:
         - Refereed Publications - 32
         - First-author publications - 16
-        - Citations - 1172
-        - H-index - 16
+        - Citations - 1860
+        - H-index - 19
+        - i10-index - 23
         - For a complete list of publications, please visit this <a href="https://ra-marquez.github.io/publications/">page</a>.
     - title: Completed as a Postdoctoral Fellow at UT-Austin.
       items:
