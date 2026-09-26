@@ -1,0 +1,27 @@
+name: Refresh EES SI
+
+on:
+  push:
+    paths:
+      - ".github/workflows/refresh-ees-si.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download correct supporting information
+        run: |
+          curl -L --fail --retry 3             "https://www.rsc.org/suppdata/d3/ee/d3ee03617k/d3ee03617k1.pdf"             -o assets/pdf/SI_EES.pdf
+          test "$(wc -c < assets/pdf/SI_EES.pdf)" -gt 1000000
+          head -c 4 assets/pdf/SI_EES.pdf | grep -q "%PDF"
+      - name: Commit supporting information
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/pdf/SI_EES.pdf
+          git commit -m "Replace EES supporting information" || exit 0
+          git push
