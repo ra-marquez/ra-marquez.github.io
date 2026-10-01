@@ -47,14 +47,14 @@
       institution: Universidad Autonoma de Chihuahua, Chihuahua, Mexico
       year: 2018 - 2020
       description:
-        - GPA 4.0 (Suma Cum Laude Academic Honor)
+        - GPA 4.0 (Summa cum laude Academic Honor)
         - Advisor - Prof. Victor H. Ramos-Sanchez
         - Thesis - <a href="http://repositorio.uach.mx/444/">Evaluating and Optimizing Sulfite Electrooxidation in a Parallel-plate Reactor</a>
     - title: BE Chemical Engineering
       institution: Universidad Autonoma de Chihuahua, Chihuahua, Mexico
       year: 2012 - 2017
       description:
-        - GPA 4.0 (Suma Cum Laude Academic Honor)
+        - GPA 4.0 (Summa cum laude Academic Honor)
         - Advisor - Prof. Victor H. Ramos-Sanchez
         - Thesis - Design of an Electrochemical Membrane Reactor for Hydrogen Production via the Hybrid Thermochemical Sulfur-Ammonia Cycle 
 
@@ -76,7 +76,7 @@
       items:
         - Marquez, R.A., et al. Insights into catalyst degradation during alkaline water electrolysis under variable operation. Energy & Environmental Science, 2025, 18, 7170-7187. <a href="https://doi.org/10.1039/D5EE02194D">Link</a> 
         - Marquez, R.A., et al. Tracking Local pH Dynamics during Water Electrolysis via In-Line Continuous Flow Raman Spectroscopy. ACS Energy Letters, 2025, 10, 4, 2075-2083. <a href="https://pubs.acs.org/doi/abs/10.1021/acsenergylett.5c00582">Link</a> 
-        - Marquez, R.A., et al. Transition metal incorporation - electrochemical, structure, and chemical effects on nickel oxyhydroxide oxygen-evolution electrocatalysts. Energy & Environmental Science, 2024, 17, 2028-2045. <a href="https://doi.org/10.1039/D3EE03617K">Link</a> 
+        - Marquez, R.A., et al. Transition metal incorporation - electrochemical, structure, and chemical composition effects on nickel oxyhydroxide oxygen-evolution electrocatalysts. Energy & Environmental Science, 2024, 17, 2028-2045. <a href="https://doi.org/10.1039/D3EE03617K">Link</a> 
         - Marquez, R.A., et al. A Guide to Electrocatalyst Stability Using Lab-Scale Alkaline Water Electrolyzers. ACS Energy Letters, 2024, 9, 2, 547–555. <a href="https://pubs.acs.org/doi/10.1021/acsenergylett.3c02758">Link</a> 
         - Marquez, R.A., et al. Teaching Electrochemical Energy Conversion and Storage through Active Learning Insights from Science Workshops. Journal of Chemical Education, 2024, 101, 8, 3333–3343. <a href="https://pubs.acs.org/doi/10.1021/acs.jchemed.4c00445">Link</a> 
         - Marquez, R.A., et al. Getting the Basics Right - Preparing Alkaline Electrolytes for Electrochemical Applications. ACS Energy Letters, 2023, 8, 2, 1141–1146. <a href="https://doi.org/10.1021/acsenergylett.2c02847">Link</a> 
@@ -142,7 +142,7 @@
         - ECS Texas Section Travel Award for the 243rd ECS Meeting held in Boston, US. The Electrochemical Society
     - year: 2022
       items:
-        - Master Thesis Competition (First place), Mexican Hydrogen Society
+        - Master's Thesis Competition (First place), Mexican Hydrogen Society
     - year: 2021
       items:
         - Faraday 2021 Teaching Award, UT-Austin
@@ -150,13 +150,13 @@
         - Chemistry Department Service Award, UT-Austin 
     - year: 2020
       items:
-        - MS in Chemistry - Suma Cum Laude Academic Honor, Universidad Autonoma de Chihuahua
+        - MS in Chemistry - Summa cum laude Academic Honor, Universidad Autonoma de Chihuahua
     - year: 2019
       items:
         - <a href="https://www.gob.mx/sre/documentos/programa-de-investigaciones-conjuntas-matias-romero-para-profesores-visitantes-y-estudiantes-de-posgrado-2019-2020-en-eua">Matias Romero Visiting Scholars Program</a> (First place), UT-Austin and Secretary of Foreign Affairs (Mexico)
     - year: 2017
       items:
-        - BE in Chemical Engineering - Suma Cum Laude Academic Honor, Universidad Autonoma de Chihuahua 
+        - BE in Chemical Engineering - Summa cum laude Academic Honor, Universidad Autonoma de Chihuahua 
         - <a href="https://www.aiche.org/community/awards/harry-west-student-poster-award">Harry West Student Poster Award</a> (First place), The American Institute of Chemical Engineers
     - year: 2016
       items:
@@ -472,7 +472,7 @@
       description:
         - Taught undergraduate Physical Chemistry and graduate Instrumental Analysis courses.
 
-- title: Departamental Service
+- title: Departmental Service
   type: time_table
   contents:
     - title: Graduate Recruiter and Student Host, Department of Chemistry, UT-Austin
@@ -509,7 +509,7 @@
       year: 2009 - 2013
       description: 
         - Served as a part-time volunteer in a nonprofit and charity association.
-        - Received training in first-aid, humanitarian aid, and rope rescue.
+        - Received training in first aid, humanitarian aid, and rope rescue.
         - Participated in 40+ community service activities and three major disaster operations.
 
 - title: Entrepreneurial Activities 
@@ -562,7 +562,7 @@
     - title: Science Podcasts and Talk Shows 
       year: 2016
       description: 
-        - Recorded and broadcasted 50+ episodes on STEM at UACH radio station, impacting 1000+ listeners.  
+        - Recorded and broadcast 50+ episodes on STEM at the UACH radio station, reaching 1000+ listeners.  
 
 - title: Mentoring Experience
   type: time_table
@@ -599,7 +599,7 @@
       description: Undergraduate student (chemical engineering), UACH
     - title: Kenya Mora-Dominguez
       year: 2020-2022
-      description: Master student (chemistry), UACH
+      description: Master's student (chemistry), UACH
 
 - title: Certifications
   type: time_table
@@ -617,7 +617,7 @@
     - title: Instrumental Analysis and Methods
       items:
         - Scanning and transmission electron microscopy (SEM, TEM)
-        - X-ray diffraction (PXRX, GIXRD)
+        - X-ray diffraction (PXRD, GIXRD)
         - Electron energy loss spectroscopy (EELS)
         - X-ray photoelectron spectroscopy (XPS)
         - non-contact profilometry (NCP)
